@@ -1,0 +1,501 @@
+,formatted_address,latitude,longitude,accuracy,google_place_id,type,postcode,input_string,number_of_results,status
+0,"Bangunan MPBP, Jalan Pejabat, Kampung Bahagia, 83000 Batu Pahat, Johor, Malaysia",1.8464774,102.9353017,GEOMETRIC_CENTER,ChIJ9YSvftxW0DERRHKM6mLb9I0,"establishment,local_government_office,point_of_interest",83000,  BATU PAHAT MUNICIPAL COUNCIL,1,OK
+1,,,,,,,,  DARUL TAKZIM FAMILY DEVELOPMENT FOUNDATION,0,ZERO_RESULTS
+2,"Majlis Perbandaran Johor Bahru Tengah, Jalan Bertingkat Skudai, Skudai, 81300 Johor Bahru, Johor, Malaysia",1.5371407,103.6623899,GEOMETRIC_CENTER,ChIJHSX3Ib5x2jERIzaYvce6J7M,"establishment,local_government_office,point_of_interest",81300,  ISKANDAR PUTERI CITY COUNCIL,1,OK
+3,"Peti Surat 232, Jalan Dato Onn, Bandar Johor Bahru, 80720 Johor Bahru, Johor, Malaysia",1.4558838,103.7615357,GEOMETRIC_CENTER,ChIJXf9LVugS2jERMH3i6aPJRfc,"city_hall,establishment,local_government_office,point_of_interest",80720,  JOHOR BAHRU CITY COUNCIL,1,OK
+4,"Johor, Malaysia",1.4853682,103.7618154,APPROXIMATE,ChIJn9vtiTLMxDERtK0Mv5sya3s,"administrative_area_level_1,political",,  JOHOR EDUCATION FOUNDATION,1,OK
+5,"Johor, Malaysia",1.4853682,103.7618154,APPROXIMATE,ChIJn9vtiTLMxDERtK0Mv5sya3s,"administrative_area_level_1,political",,  JOHOR HERITAGE FOUNDATION,1,OK
+6,"Johor, Malaysia",1.4853682,103.7618154,APPROXIMATE,ChIJn9vtiTLMxDERtK0Mv5sya3s,"administrative_area_level_1,political",,  JOHOR MUFTI DEPARTMENT,1,OK
+7,"19745, Jalan Yahya Awal, Kampung Mahmoddiah, 80100 Johor Bahru, Johor, Malaysia",1.4672493,103.7513393,ROOFTOP,ChIJK-AaAbgS2jER891aasls20s,"establishment,library,point_of_interest",80100,  JOHOR PUBLIC LIBRARY CORPORATION,1,OK
+8,"Johor, Malaysia",1.4853682,103.7618154,APPROXIMATE,ChIJn9vtiTLMxDERtK0Mv5sya3s,"administrative_area_level_1,political",,  JOHOR PUBLIC SERVICE COMMISION,1,OK
+9,"Johor, Malaysia",1.4853682,103.7618154,APPROXIMATE,ChIJn9vtiTLMxDERtK0Mv5sya3s,"administrative_area_level_1,political",,  JOHOR PUBLIC WORKS DEPARTMENT,1,OK
+10,"Johor, Malaysia",1.4853682,103.7618154,APPROXIMATE,ChIJn9vtiTLMxDERtK0Mv5sya3s,"administrative_area_level_1,political",,  JOHOR RELIGIOUS DEPARTMENT,1,OK
+11,"Johor, Malaysia",1.4853682,103.7618154,APPROXIMATE,ChIJn9vtiTLMxDERtK0Mv5sya3s,"administrative_area_level_1,political",,  JOHOR STATE FORESTRY DEPARTMENT,1,OK
+12,"Johor, Malaysia",1.4853682,103.7618154,APPROXIMATE,ChIJn9vtiTLMxDERtK0Mv5sya3s,"administrative_area_level_1,political",,  JOHOR TOWN AND COUNTRY PLANNING DEPARTMENT,1,OK
+13,"Johor, Malaysia",1.4853682,103.7618154,APPROXIMATE,ChIJn9vtiTLMxDERtK0Mv5sya3s,"administrative_area_level_1,political",,  JOHOR VETERINARY SERVICES DEPARTMENT,1,OK
+14,"Kluang, Johor, Malaysia",2.030068,103.3184639,APPROXIMATE,ChIJiWlmFDps0DERrE-AQYLA1c8,"locality,political",,  KLUANG MUNICIPAL COUNCIL,1,OK
+15,"Kota Tinggi, Johor, Malaysia",1.7353328,103.9006687,APPROXIMATE,ChIJ748nAbT62jERV3N8vPMWsN8,"administrative_area_level_3,political",,  KOTA TINGGI DISTRICT COUNCIL,2,OK
+16,"Taman Kulai Besar, 81000 Kulai, Johor, Malaysia",1.6585754,103.6064712,GEOMETRIC_CENTER,ChIJARFAkaR52jERR0z83_vsMUA,"establishment,local_government_office,point_of_interest",81000,  KULAI MUNICIPAL COUNCIL,1,OK
+17,"Aras 5 Blok 'B' Pusat Islam Iskandar Johor, Jalan Masjid Abu Bakar, Masjid Sultan Abu Bakar, 80000 Johor Bahru, Johor, Malaysia",1.458066,103.750087,GEOMETRIC_CENTER,ChIJtVRVVZUS2jERhEQSA96KNeQ,"establishment,local_government_office,point_of_interest",80000,  MAJLIS AGAMA ISLAM NEGERI JOHOR,1,OK
+18,"Mersing District, Johor, Malaysia",2.4328868,103.8397388,APPROXIMATE,ChIJo6hQcgTf2jERV8sBddlZzc4,"administrative_area_level_3,political",,  MERSING DISTRICT COUNCIL,1,OK
+19,"Karung Berkunci No 516, Pekan Muar, 84009 Muar, Johor, Malaysia",2.0471092,102.5654008,GEOMETRIC_CENTER,ChIJ2U-3OAW50TERf0-tmZTPqQA,"establishment,local_government_office,point_of_interest",84009,  MUAR MUNICIPAL COUNCIL,1,OK
+20,"Pasir Gudang, Johor, Malaysia",1.470288,103.9029689,APPROXIMATE,ChIJL_rtwnUV2jERcGdAb6TyiaI,"locality,political",,  PASIR GUDANG MUNICIPAL COUNCIL,1,OK
+21,"Bangunan Dato Mohamad Salleh Perang, 79576, Kota Iskandar, 79100 Nusajaya, Johor, Malaysia",1.4199691,103.6497462,GEOMETRIC_CENTER,ChIJJWW77hIM2jERZj8HXVwDHcw,"establishment,local_government_office,point_of_interest",79100,  PEJABAT TANAH DAN GALIAN NEGERI JOHOR,1,OK
+22,"LEVEL 3.1, BANGUNAN PERBADANAN ISLAM JOHOR, Jalan Rebana, Taman Kebun Teh, 80250 Johor Bahru, Johor, Malaysia",1.4953783,103.7597092,GEOMETRIC_CENTER,ChIJKURpO-gS2jER9elySBDQvz0,"establishment,point_of_interest",80250,  PERBADANAN ISLAM JOHOR,1,OK
+23,"Pontian District, Johor, Malaysia",1.485561,103.3878589,APPROXIMATE,ChIJK4MDpmiY0DER6lF1-vEal2Y,"locality,political",,  PONTIAN DISTRICT COUNCIL,1,OK
+24,"Simpang Renggam, Johor, Malaysia",1.827292,103.3099852,APPROXIMATE,ChIJz4GmTZhj0DERmBSAS7Zzu0Y,"locality,political",,  SIMPANG RENGGAM DISTRICT COUNCIL,1,OK
+25,"Kampung Tanjung Laboh, 84900 Tangkak, Johor, Malaysia",2.2718383,102.5280022,GEOMETRIC_CENTER,ChIJwf6T253c0TERba24CSjo83M,"establishment,local_government_office,point_of_interest",84900,  TANGKAK DISTRICT COUNCIL,1,OK
+26,"Kedah, Malaysia",6.1183964,100.3684595,APPROXIMATE,ChIJoUVAXxN2STARpE6rChGD5Gw,"administrative_area_level_1,political",,"  DEPARTMENT OF IRRIGATION AND DRAINAGE, KEDAH",1,OK
+27,"Kedah, Malaysia",6.1183964,100.3684595,APPROXIMATE,ChIJoUVAXxN2STARpE6rChGD5Gw,"administrative_area_level_1,political",,  KEDAH STATE DEVELOPMENT CORPORATION,1,OK
+28,"Kedah, Malaysia",6.1183964,100.3684595,APPROXIMATE,ChIJoUVAXxN2STARpE6rChGD5Gw,"administrative_area_level_1,political",,  KEDAH STATE FINANCE AND TREASURY DEPARTMENT,1,OK
+29,"Kedah, Malaysia",6.1183964,100.3684595,APPROXIMATE,ChIJoUVAXxN2STARpE6rChGD5Gw,"administrative_area_level_1,political",,  KEDAH SYARIAH JUDICIARY DEPARTMENT,1,OK
+30,"Kedah, Malaysia",6.1183964,100.3684595,APPROXIMATE,ChIJoUVAXxN2STARpE6rChGD5Gw,"administrative_area_level_1,political",,  KEDAH TOWN AND COUNTRY PLANNING DEPARTMENT,1,OK
+31,"Kulim, Kedah, Malaysia",5.371741999999999,100.5553372,APPROXIMATE,ChIJn64vtFTKSjARUtIcbAYdgtA,"locality,political",,  KULIM MUNICIPAL COUNCIL,1,OK
+32,"Langkawi, 07000 Langkawi, Kedah, Malaysia",6.35,99.8,APPROXIMATE,ChIJXXXEadp4TDAR_m2919txOeQ,"colloquial_area,political",07000,  LANGKAWI MUNICIPAL COUNCIL,1,OK
+33,"Kedah, Malaysia",6.1183964,100.3684595,APPROXIMATE,ChIJoUVAXxN2STARpE6rChGD5Gw,"administrative_area_level_1,political",,  LEMBAGA KEMAJUAN PENANAM-PENANAM PADI KEDAH,1,OK
+34,"Tingkat 4 dan 5, Menara Guru, Persiaran Sultan Abdul Hamid, Taman Teratai Jingga, 05050 Alor Setar, Kedah, Malaysia",6.100650799999999,100.3603991,ROOFTOP,ChIJvxl3Yo9ESzARGMaYI8wUu-I,"establishment,point_of_interest",05050,  LEMBAGA MAKTAB MAHMUD,1,OK
+35,"Kedah, Malaysia",6.1183964,100.3684595,APPROXIMATE,ChIJoUVAXxN2STARpE6rChGD5Gw,"administrative_area_level_1,political",,  PEJABAT MENTERI BESAR DAN SETIAUSAHA KERAJAAN NEGERI KEDAH,1,OK
+36,"Pendang, Kedah, Malaysia",5.993039,100.4773388,APPROXIMATE,ChIJI8VQW_c1SzARACGXBKZ4D5c,"locality,political",,  PENDANG DISTRICT COUNCIL,1,OK
+37,"Sik, Kedah, Malaysia",5.818345,100.743021,APPROXIMATE,ChIJTYMl0hvJtDERPkZ2wke2Hdw,"locality,political",,  SIK DISTRICT COUNCIL,1,OK
+38,"Sik, Kedah, Malaysia",5.818345,100.743021,APPROXIMATE,ChIJTYMl0hvJtDERPkZ2wke2Hdw,"locality,political",,  SIK DISTRICT OFFICE,1,OK
+39,"Majlis Perbandaran Sungai Petani Bangunan SP Plaza Sungai Petani, Kedah, Taman Lagenda Indah, 08000 Sungai Petani, Kedah, Malaysia",5.6679856,100.4817404,GEOMETRIC_CENTER,ChIJUW0ZWFIoSzAR-WwyIru2NfE,"establishment,point_of_interest",08000,  SUNGAI PETANI MUNICIPAL COUNCIL,1,OK
+40,"Pejabat Tanah dan Jajahan Bachok, 16300 Bachok, Kelantan, Malaysia",6.0561609,102.3919307,ROOFTOP,ChIJVV49f964tjER-51c8NYg1i8,"establishment,point_of_interest",16300,  BACHOK DISTRICT AND LAND OFFICE,1,OK
+41,"Kelantan, Malaysia",6.1253969,102.238071,APPROXIMATE,ChIJWRr6ZHLZtTER8LyfSrt7yW4,"administrative_area_level_1,political",,  COUNCIL OF THE RELIGION OF ISLAM AND MALAY CUSTOM KELANTAN,1,OK
+42,"18300 Gua Musang, Kelantan, Malaysia",4.884278999999999,101.968178,APPROXIMATE,ChIJf6hvj9wFyjERzBujlXR5ivQ,"locality,political",18300,  GUA MUSANG DISTRICT COUNCIL,1,OK
+43,"18300 Gua Musang, Kelantan, Malaysia",4.884278999999999,101.968178,APPROXIMATE,ChIJf6hvj9wFyjERzBujlXR5ivQ,"locality,political",18300,  GUA MUSANG LAND AND DISTRICT OFFICE,1,OK
+44,"Ketua Jajahan Pejabat Tanah dan Jajahan Jeli, 17600, Jeli, Kelantan, Bandar Jeli, 17600 Jeli, Kelantan, Malaysia",5.695148199999999,101.8450725,GEOMETRIC_CENTER,ChIJ-X5ds34xtDERIO_zM9fmb9Y,"establishment,finance,local_government_office,point_of_interest",17600,  JELI DISTRICT AND LAND OFFICE,1,OK
+45,"Kelantan, Malaysia",6.1253969,102.238071,APPROXIMATE,ChIJWRr6ZHLZtTER8LyfSrt7yW4,"administrative_area_level_1,political",,  KELANTAN AGRICULTURE DEPARTMENT,1,OK
+46,"Tingkat 5, Kompleks YAKIN, Jalan Gajah Mati, Bandar Kota Bharu, 15000 Kota Bharu, Kelantan, Malaysia",6.125075,102.2368492,GEOMETRIC_CENTER,ChIJ9wx_hcavtjERwjy7m-9E9mg,"establishment,point_of_interest",15000,  KELANTAN DARULNAIM FOUNDATION,1,OK
+47,"Kelantan, Malaysia",6.1253969,102.238071,APPROXIMATE,ChIJWRr6ZHLZtTER8LyfSrt7yW4,"administrative_area_level_1,political",,  KELANTAN DRAINAGE AND IRRIGATION DEPARTMENT,1,OK
+48,"Kelantan, Malaysia",6.1253969,102.238071,APPROXIMATE,ChIJWRr6ZHLZtTER8LyfSrt7yW4,"administrative_area_level_1,political",,  KELANTAN FORESTRY DEPARTMENT,1,OK
+49,"Kelantan, Malaysia",6.1253969,102.238071,APPROXIMATE,ChIJWRr6ZHLZtTER8LyfSrt7yW4,"administrative_area_level_1,political",,  KELANTAN ISLAMIC FOUNDATION,1,OK
+50,"Kelantan, Malaysia",6.1253969,102.238071,APPROXIMATE,ChIJWRr6ZHLZtTER8LyfSrt7yW4,"administrative_area_level_1,political",,  KELANTAN ISLAMIC RELIGIOUS AFFAIRS DEPARTMENT,1,OK
+51,"Kelantan, Malaysia",6.1253969,102.238071,APPROXIMATE,ChIJWRr6ZHLZtTER8LyfSrt7yW4,"administrative_area_level_1,political",,  KELANTAN LAND AND MINES DEPARTMENT,1,OK
+52,"Jalan Padang Perdana, Bandar Kota Bharu, 15572 Kota Bharu, Kelantan, Malaysia",6.122515600000001,102.2401701,GEOMETRIC_CENTER,ChIJK6VwgcOvtjERwjkgievpwEU,"establishment,library,point_of_interest",15572,  KELANTAN PUBLIC LIBRARY,1,OK
+53,"Kelantan, Malaysia",6.1253969,102.238071,APPROXIMATE,ChIJWRr6ZHLZtTER8LyfSrt7yW4,"administrative_area_level_1,political",,  KELANTAN PUBLIC WORKS DEPARTMENT,1,OK
+54,"Blok 6, Aras 1, Kompleks Kota Darulnaim, 15503, Kota Bharu, Kelantan, 15200 Kota Bharu, Kelantan, Malaysia",6.1248825,102.2536422,GEOMETRIC_CENTER,ChIJ7QLHi9ivtjER4glaoewxsi8,"establishment,point_of_interest",15200,  KELANTAN STATE DEVELOPMENT OFFICE,1,OK
+55,"Kelantan, Malaysia",6.1253969,102.238071,APPROXIMATE,ChIJWRr6ZHLZtTER8LyfSrt7yW4,"administrative_area_level_1,political",,  KELANTAN STATE SERVICES COMMISSION,1,OK
+56,"Kelantan, Malaysia",6.1253969,102.238071,APPROXIMATE,ChIJWRr6ZHLZtTER8LyfSrt7yW4,"administrative_area_level_1,political",,  KELANTAN STATE TREASURY,1,OK
+57,"15200 Kota Bharu, Kelantan, Malaysia",6.1228451,102.2520095,GEOMETRIC_CENTER,ChIJu1Xo1divtjERKbmYV9oIHKE,"establishment,point_of_interest",15200,  KELANTAN SYARIAH JUDICIARY DEPARTMENT,1,OK
+58,"Kelantan, Malaysia",6.1253969,102.238071,APPROXIMATE,ChIJWRr6ZHLZtTER8LyfSrt7yW4,"administrative_area_level_1,political",,  KELANTAN TOWN AND RURAL PLANNING DEPARTMENT,1,OK
+59,"Ketereh, Kelantan, Malaysia",5.957974,102.249882,APPROXIMATE,ChIJJcr4lrOitjERLpeGhaygNI4,"locality,political",,  KETEREH DISTRICT COUNCIL,1,OK
+60,"Kota Bharu, Kelantan, Malaysia",6.1256521,102.2387193,APPROXIMATE,ChIJYbB553-xtjER5PtNGUXMEs4,"administrative_area_level_3,political",,  KOTA BHARU DISTRICT AND LAND OFFICE,1,OK
+61,"15200 Kota Bharu, Kelantan, Malaysia",6.124785,102.2543825,APPROXIMATE,ChIJM28dhNivtjERiXVvwYYZJb8,"locality,political",15200,  KOTA BHARU MUNICIPAL COUNCIL ISLAMIC CITY,1,OK
+62,"Pejabat Tanah dan Jajahan Kuala Krai, 18000, Kuala Krai, Kelantan, Kuala Krai, 18000 Kuala Krai, Kelantan, Malaysia",5.539593700000001,102.2015028,GEOMETRIC_CENTER,ChIJF_cOYmd8tjERawqE_w7czHU,"establishment,point_of_interest",18000,  KUALA KRAI DISTRICT AND LAND OFFICE,1,OK
+63,"JKR 60, Jalan Sultan Yahya Petra, Pekan Kuala Krai, 18000 Kuala Krai, Kelantan, Malaysia",5.531219999999999,102.1977033,ROOFTOP,ChIJD6NwYmV8tjERTLBuawBn4kI,"establishment,local_government_office,point_of_interest",18000,  KUALA KRAI DISTRICT COUNCIL,1,OK
+64,"Machang, Kelantan, Malaysia",5.767932999999999,102.2153872,APPROXIMATE,ChIJrcCAbCyFtjERl5_vJciOeMk,"locality,political",,  MACHANG DISTRICT AND LAND OFFICE,1,OK
+65,"Machang, Kelantan, Malaysia",5.767932999999999,102.2153872,APPROXIMATE,ChIJrcCAbCyFtjERl5_vJciOeMk,"locality,political",,  MACHANG DISTRICT COUNCIL,1,OK
+66,"Pasir Mas, Kelantan, Malaysia",6.053074899999999,102.1118253,APPROXIMATE,ChIJFR63m_-mtjERtOQEuCTQ2j0,"administrative_area_level_4,political",,  PASIR MAS DISTRICT AND LAND OFFICE,1,OK
+67,"Pasir Mas, Kelantan, Malaysia",6.053074899999999,102.1118253,APPROXIMATE,ChIJFR63m_-mtjERtOQEuCTQ2j0,"administrative_area_level_4,political",,  PASIR MAS DISTRICT COUNCIL,1,OK
+68,"Pasir Puteh, Kelantan, Malaysia",5.836163,102.4077409,APPROXIMATE,ChIJTbcq4gOTtjERgAWVNhFDQC8,"locality,political",,  PASIR PUTEH DISTRICT AND LAND OFFICE,1,OK
+69,"Pasir Puteh, Kelantan, Malaysia",5.836163,102.4077409,APPROXIMATE,ChIJTbcq4gOTtjERgAWVNhFDQC8,"locality,political",,  PASIR PUTEH DISTRICT COUNCIL,1,OK
+70,"Blok 8 Mabna MBI, Aras 4, D3, Bandar Kota Bharu, 15503 Kota Bharu, Kelantan, Malaysia",6.1111218,102.2375703,GEOMETRIC_CENTER,ChIJ2X3Q3O6vtjERchGsQuepatg,"establishment,point_of_interest",15503,  PEJABAT MENTERI BESAR DAN SETIAUSAHA KERAJAAN NEGERI KELANTAN,1,OK
+71,"Tanah Merah, Kelantan, Malaysia",5.808886999999999,102.1470772,APPROXIMATE,ChIJi1ySjXMntDERrOaV-3roc9U,"locality,political",,  TANAH MERAH DISTRICT AND LAND OFFICE,1,OK
+72,"Tanah Merah, Kelantan, Malaysia",5.808886999999999,102.1470772,APPROXIMATE,ChIJi1ySjXMntDERrOaV-3roc9U,"locality,political",,  TANAH MERAH DISTRICT COUNCIL,1,OK
+73,"Ketua Jajahan Pejabat Tanah dan Jajahan Tumpat, 16200, Tumpat, Kelantan, Pasar, Pekan Tumpat, 16200 Tumpat, Kelantan, Malaysia",6.1984715,102.1717629,ROOFTOP,ChIJHcZNKgqstjER2bGuM9FNSiY,"establishment,point_of_interest",16200,  TUMPAT DISTRICT AND LAND OFFICE,1,OK
+74,"Tumpat, Kelantan, Malaysia",6.199069,102.169372,APPROXIMATE,ChIJI8yorgmstjERANl0k680epY,"locality,political",,  TUMPAT DISTRICT COUNCIL,1,OK
+75,,,,,,,,  CHILDREN'S DENTAL CENTRE & DENTAL TRAINING COLLEGE MALAYSIA,0,ZERO_RESULTS
+76,,,,,,,,  INSTITUTE FOR HEALTH BEHAVIOURAL RESEARCH,0,ZERO_RESULTS
+77,"715 Southpoint Blvd # C, Petaluma, CA 94954, USA",38.2569569,-122.6454848,ROOFTOP,ChIJm3AW-2u0hYARcn_SqyQGalk,"doctor,establishment,health,point_of_interest",94954,  INSTITUTE FOR HEALTH MANAGEMENT,1,OK
+78,"No.2, Jln Setia Prima S U13/S, Setia Alam, 40170 Shah Alam, Selangor, Malaysia",3.1090184,101.4520989,ROOFTOP,ChIJQ8GWPeVTzDERJZZExoZ6Nw8,"establishment,point_of_interest",40170,  INSTITUTE FOR HEALTH SYSTEMS RESEARCH,1,OK
+79,"508 Fulton St, Durham, NC 27705, USA",36.0094507,-78.9379688,ROOFTOP,ChIJhU5De63mrIkRRNuKtW3hPvc,"establishment,point_of_interest,store",27705,  INSTITUTE FOR MEDICAL RESEARCH,1,OK
+80,,,,,,,,  INSTITUTE FOR PUBLIC HEALTH,0,ZERO_RESULTS
+81,"28, Tower 2, Jalan Rakyat, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1299436,101.6827087,ROOFTOP,ChIJXctMrpZJzDERPTCRx0AY1CE,"establishment,point_of_interest",50470,  MALAYSIA HEALTHCARE TRAVEL COUNCIL (MHTC),1,OK
+82,"Level 6, Prima 9, Prima Avenue II, Persiaran Apec, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia",2.9138486,101.6560974,GEOMETRIC_CENTER,ChIJ24Rl-h62zTER57TZaLivpuU,"establishment,point_of_interest",63000,  MEDICAL DEVICE AUTHORITY (MDA),1,OK
+83,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MINISTRY OF HEALTH MALAYSIA,1,OK
+84,"8 James St, Saint James' (part of Phoenix Park), Dublin, Ireland",53.3395312,-6.2911952,ROOFTOP,ChIJ_ZNt3zgMZ0gRzu8Rh6WViNY,"establishment,health,hospital,point_of_interest",,  NATIONAL BLOOD CENTRE,1,OK
+85,,,,,,,,  NATIONAL CANCER INSTITUTE,0,ZERO_RESULTS
+86,,,,,,,,  NATIONAL INSTITUTES OF HEALTH (NIH),0,ZERO_RESULTS
+87,,,,,,,,  NATIONAL LEPROSY CONTROL CENTER,0,ZERO_RESULTS
+88,,,,,,,,  RESPIRATORY MEDICAL INSTITUTE (IPR),0,ZERO_RESULTS
+89,"Pejabat Daerah dan Tanah Alor Gajah, 78000, Alor Gajah, Melaka, 78000 Alor Gajah, Malacca, Malaysia",2.383437,102.2107079,GEOMETRIC_CENTER,ChIJj2hX8Ar90TERd1m6BQkTWy4,"establishment,point_of_interest",78000,  ALOR GAJAH DISTRICT AND LAND OFFICE,1,OK
+90,"Alor Gajah, Malacca, Malaysia",2.382211,102.2115611,APPROXIMATE,ChIJ0VFXIQb90TERL6bpqdV0Lcc,"locality,political",,  ALOR GAJAH MUNICIPAL COUNCIL,1,OK
+91,,,,,,,,  HANG TUAH JAYA MUNICIPAL COUNCIL,0,ZERO_RESULTS
+92,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  ISLAMIC RELIGIOUS DEPARTMENT OF MALACCA,1,OK
+93,"Malacca, Malaysia",2.194418,102.249063,APPROXIMATE,ChIJd3J6lejk0TERaU5U1OUmM5g,"administrative_area_level_1,political",,  JABATAN KERJA RAYA NEGERI MELAKA,1,OK
+94,"Pejabat Daerah dan Tanah Jasin, 77000, Jasin, Melaka, 77000 Jasin, Malacca, Malaysia",2.3062028,102.4228116,GEOMETRIC_CENTER,ChIJIfl-22nn0TERSeZUtHeMixg,"establishment,point_of_interest",77000,  JASIN DISTRICT AND LAND OFFICE,1,OK
+95,,,,,,,,  JASIN MUNICIPAL COUNCIL,0,ZERO_RESULTS
+96,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA AGRICULTURE DEPARTMENT,1,OK
+97,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA CHIEF MINISTER DEPARTMENT,1,OK
+98,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA CUSTOMARY LANDS DEVELOPMENT CORPORATION,1,OK
+99,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA FOUNDATION,1,OK
+100,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA HISTORIC CITY COUNCIL,1,OK
+101,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA LAND AND MINERAL OFFICE,1,OK
+102,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA MUFTI DEPARTMENT,1,OK
+103,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA PUBLIC LIBRARY,1,OK
+104,"Kampung Durian Daun, 75100 Malacca, Malaysia",2.2056636,102.2564447,GEOMETRIC_CENTER,ChIJ__-PAtHx0TERgtZCwgc-OII,"establishment,point_of_interest",75100,  MELAKA STATE DEVELOPMENT CORPORATION,1,OK
+105,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA STATE FINANCE AND TREASURY DEPARTMENT,2,OK
+106,"Malacca, Malaysia",2.194418,102.249063,APPROXIMATE,ChIJd3J6lejk0TERaU5U1OUmM5g,"administrative_area_level_1,political",,  MELAKA STATE GOVERMENT,2,OK
+107,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA STATE FORESTRY DEPARTMENT,2,OK
+108,"8 Lengkok Bahru, Singapore 159052",1.2865637,103.811373,ROOFTOP,ChIJd3lRYdIb2jER0x2Jen2WBas,"courthouse,establishment,point_of_interest",159052,  MELAKA SYARIAH COURT,2,OK
+109,"Malacca, Malaysia",2.194418,102.249063,APPROXIMATE,ChIJd3J6lejk0TERaU5U1OUmM5g,"administrative_area_level_1,political",,  MELAKA TENGAH DISTRICT AND LAND OFFICE,1,OK
+110,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA TOWN AND RURAL PLANNING DEPARTMENT,1,OK
+111,"Malacca, Malaysia",2.189594,102.2500868,APPROXIMATE,ChIJ3WWMjifu0TERagGedoFyKgM,"locality,political",,  MELAKA VETERINARY SERVICES DEPARTMENT,1,OK
+112,"Jalan Kota, Kompleks Warisan, 75000 Melaka, Malaysia",2.1927154,102.2483259,GEOMETRIC_CENTER,ChIJxTffo-Dx0TERR9Y7AIGKk2E,"establishment,museum,point_of_interest,tourist_attraction",75000,  PERBADANAN MUZIUM NEGERI MELAKA,1,OK
+113,"Stadium Hang Jebat Kompleks Sukan Negeri, Perbadanan Stadium Melaka Aras 1, 75260, Paya Rumput Krubong, Melaka, 75260 Krubong, Malacca, Malaysia",2.288852,102.2331075,GEOMETRIC_CENTER,ChIJ2VUj6ynu0TERQ7XnpJYSRho,"establishment,point_of_interest",75260,  PERBADANAN STADIUM MELAKA,1,OK
+114,,,,,,,,  DEPARTMENT OF AGRICULTURE,0,ZERO_RESULTS
+115,"Bahgian Pengurusan Sumber Perikanan, 32, Persiaran Perdana, Presint 4, 62628 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.9143961,101.6837792,ROOFTOP,ChIJB_q4abW3zTERvQFWDnRT1cY,"establishment,point_of_interest",62628,  DEPARTMENT OF FISHERIES MALAYSIA,1,OK
+116,"Lot 4G1, Precint 4,Federal Goverment Administration Centre, 62630, Putrajaya, Presint 3, 62000 Putrajaya, Malaysia",2.9158678,101.6826424,GEOMETRIC_CENTER,ChIJsQuORCW2zTERFVtbmNpUq5U,"establishment,point_of_interest",62000,  DEPARTMENT OF VETERINARY SERVICES,1,OK
+117,,,,,,,,  FARMERS' ORGANIZATION AUTHORITY,0,ZERO_RESULTS
+118,,,,,,,,  FEDERAL AGRICULTURAL MARKETING AUTHORITY (FAMA),0,ZERO_RESULTS
+119,"Wisma LKIM, Pulau Meranti, Jalan Desaria, Selangor, Kampung Batu Sembilan, 47120 Puchong, Selangor, Malaysia",2.9725009,101.6384586,GEOMETRIC_CENTER,ChIJTwZ8qD-0zTERx-3h3CpqG4Y,"establishment,point_of_interest",47120,  FISHERIES DEVELOPMENT AUTHORITY OF MALAYSIA,1,OK
+120,"Peti Surat 127, Bandar Kota Bharu, 15710 Kota Bharu, Kelantan, Malaysia",6.1068164,102.2631971,GEOMETRIC_CENTER,ChIJ2-PLKN-vtjER4qr0CvyhGCo,"establishment,point_of_interest",15710,  KEMUBU AGRICULTURAL DEVELOPMENT AUTHORITY (KADA),1,OK
+121,,,,,,,,  MALAYSIAN AGRICULTURAL RESEARCH AND DEVELOPMENT INSTITUTE (MARDI),0,ZERO_RESULTS
+122,"5, Jalan Padi Mahsuri, Bandar Baru Uda, 81200 Johor Bahru, Johor, Malaysia",1.4997378,103.7111979,ROOFTOP,ChIJq6qqqqp60DERDrbkmW0JVtQ,"establishment,local_government_office,point_of_interest",81200,  MALAYSIAN PINEAPPLE INDUSTRY BOARD,1,OK
+123,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN QUARANTINE AND INSPECTION SERVICES,1,OK
+124,,,,,,,,  MINISTRY OF AGRICULTURE AND AGRO-BASED INDUSTRY,0,ZERO_RESULTS
+125,,,,,,,,  MUDA AGRICULTURAL DEVELOPMENT AUTHORITY,0,ZERO_RESULTS
+126,"Level 7 Tower 1, Menara Cyber Axis, Jalan Impact, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia",2.9181183,101.6606033,GEOMETRIC_CENTER,ChIJc3wZq-PsyjERJYTRnCUh9uU,"establishment,point_of_interest",63000,  CYBERSECURITY MALAYSIA,1,OK
+127,,,,,,,,  DEPARTMENT OF PROTECTION OF PERSONAL DATA,0,ZERO_RESULTS
+128,"80, Jalan 1/112a, Taman Bukit Angkasa, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1099212,101.6732101,ROOFTOP,ChIJsTHoD4hJzDER0lEFh3xV6Zw,"establishment,point_of_interest",59200,  INSTITUT PENYIARAN DAN PENERANGAN TUN ABDUL RAZAK (IPPTAR),1,OK
+129,,,,,,,,  JABATAN PENERANGAN MALAYSIA,0,ZERO_RESULTS
+130,"Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia",2.9224,101.659,GEOMETRIC_CENTER,ChIJi2Oc5_i2zTERn6XghbmjSW4,"establishment,point_of_interest",63000,  MALAYSIA DIGITAL ECONOMY CORPORATION (MDEC),1,OK
+131,,,,,,,,  MALAYSIAN COMMUNICATIONS AND MULTIMEDIA COMMISSION (MCMC),0,ZERO_RESULTS
+132,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MINISTRY OF COMMUNICATION AND MULTIMEDIA MALAYSIA,1,OK
+133,,,,,,,,  NATIONAL FILM DEVELOPMENT CORPORATION MALAYSIAN,0,ZERO_RESULTS
+134,,,,,,,,  DEPARTMENT OF VETERANS' AFFAIRS,0,ZERO_RESULTS
+135,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN ARMED FORCES HEADQUARTERS,1,OK
+136,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN ARMY,1,OK
+137,,,,,,,,  MINISTRY OF DEFENCE,0,ZERO_RESULTS
+138,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  ROYAL MALAYSIAN AIR FORCE,1,OK
+139,,,,,,,,  ROYAL MALAYSIAN NAVY,0,ZERO_RESULTS
+140,"Menara Uoa Bangsar, Jalan Bangsar Utama 1, Bangsar, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1278348,101.6782556,ROOFTOP,ChIJachkrM9JzDER71ymSBWAZAE,"establishment,point_of_interest",59000,  INTELLECTUAL PROPERTY CORPORATION OF MALAYSIA (MYIPO),1,OK
+141,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIA COMPETITION COMMISSION (MYCC),1,OK
+142,,,,,,,,  MINISTRY OF DOMESTIC TRADE AND CONSUMER AFFAIRS,0,ZERO_RESULTS
+143,,,,,,,,  REGISTRATION OF COMPANY (ROC),0,ZERO_RESULTS
+144,"20th Floor, Menara Ta One, 22, Jalan P. Ramlee, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1566999,101.7100252,ROOFTOP,ChIJfwDQYtY3zDERMaHLIERyZf4,"establishment,point_of_interest",50250,  EDUCATION MALAYSIA GLOBAL SERVICES (EMGS),1,OK
+145,,,,,,,,  EDUCATION PERFORMANCE AND DELIVERY UNIT (PADU),0,ZERO_RESULTS
+146,,,,,,,,  HIGHER EDUCATION DEPARTMENT,0,ZERO_RESULTS
+147,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  INSTITUTE OF LANGUAGE AND LITERATURE MALAYSIA,1,OK
+148,,,,,,,,  INSTITUTE OF TRANSLATION & BOOKS MALAYSIA (ITBM),0,ZERO_RESULTS
+149,"Aras 4-7, Galeria PJH, Jalan P4 W, Persiaran Perdana, 62100 Putrajaya, Malaysia",2.9128632,101.6841854,GEOMETRIC_CENTER,ChIJlQ0PhrW3zTERXYdGDkBO2-M,"establishment,point_of_interest",62100,  JABATAN PENDIDIKAN POLITEKNIK & KOLEJ KOMUNITI,1,OK
+150,,,,,,,,  MALAYSIAN EXAMINATION BOARD,0,ZERO_RESULTS
+151,"Baru Selayang, 68100 Batu Caves, Selangor, Malaysia",3.2607338,101.6537356,GEOMETRIC_CENTER,ChIJVVWVm9BGzDERs8gVR6bi8ok,"establishment,point_of_interest",68100,  MALAYSIAN EXAMINATIONS COUNCIL,1,OK
+152,"Jalan Ilmu 1/1, 40450 Shah Alam, Selangor, Malaysia",3.069724,101.5036726,GEOMETRIC_CENTER,ChIJRXOUXotSzDERcrYMUCcGUug,"establishment,point_of_interest,university",40450,  MARA UNIVERSITY OF TECHNOLOGY (UITM),1,OK
+153,"Malacca, Malaysia",2.194418,102.249063,APPROXIMATE,ChIJd3J6lejk0TERaU5U1OUmM5g,"administrative_area_level_1,political",,  MELAKA STATE EDUCATION DEPARTMENT,2,OK
+154,"MF2Q+94R, St Vincent St, Port of Spain, Trinidad and Tobago",10.6509887,-61.5122463,GEOMETRIC_CENTER,ChIJ4a-wQP0HNowRsRgfbZlDEN4,"establishment,point_of_interest",,  MINISTRY OF EDUCATION,1,OK
+155,"Kem, Sungai Besi, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.0504628,101.7248331,GEOMETRIC_CENTER,ChIJAQBs1Xo1zDERHa7EeaWBXD0,"establishment,point_of_interest,university",57000,  NATIONAL DEFENCE UNIVERSITY OF MALAYSIA (UPNM),1,OK
+156,"D3-06-01, Centre Court Persiaran Multimedia Cyber 10 Tamarind Square, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia",2.9204786,101.6363363,GEOMETRIC_CENTER,ChIJ2YllCipIzDERFFcA7l29gVY,"establishment,point_of_interest",63000,  PERBADANAN KOTA BUKU (PKB),1,OK
+157,"Jln Profesor Diraja Ungku Aziz, 50603 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1209046,101.6538414,GEOMETRIC_CENTER,ChIJh3EhJHC0zTERQdZHXcbrhR4,"establishment,point_of_interest,university",50603,  UNIVERSITI MALAYA (UM),1,OK
+158,"Exit Lebuhraya Changlun - Kuala Perlis, 02600 Arau, Perlis, Malaysia",6.4604292,100.351832,GEOMETRIC_CENTER,ChIJ_bOy3FijTDARfnwkXXIs7Qg,"establishment,point_of_interest,university",02600,  UNIVERSITI MALAYSIA PERLIS (UNIMAP),1,OK
+159,"Jln Datuk Mohammad Musa, 94300 Kota Samarahan, Sarawak, Malaysia",1.4666795,110.425148,GEOMETRIC_CENTER,ChIJtUMWgyyi-zERnIec4l-B-EM,"establishment,point_of_interest,university",94300,  UNIVERSITI MALAYSIA SARAWAK (UNIMAS),1,OK
+160,"Universiti Pendidikan Sultan Idris, 35900 Tanjong Malim, Perak, Malaysia",3.685019,101.524086,GEOMETRIC_CENTER,ChIJZUgJ1OGHyzERmQM_1_J_YwU,"establishment,point_of_interest,university",35900,  UNIVERSITI PENDIDIKAN SULTAN IDRIS (UPSI),1,OK
+161,"JALAN UNIVERSITI 1 Serdang, 43400 Seri Kembangan, Selangor, Malaysia",2.99932,101.707939,GEOMETRIC_CENTER,ChIJtwipGH_KzTER9Ivy1ZLviuI,"establishment,point_of_interest,university",43400,  UNIVERSITI PUTRA MALAYSIA (UPM),1,OK
+162,"11800 Gelugor, Penang, Malaysia",5.358315,100.3023473,GEOMETRIC_CENTER,ChIJFWAtY6jBSjARoUHUuJ9hUOM,"establishment,premise,university",11800,  UNIVERSITI SAINS MALAYSIA (USM),1,OK
+163,"Jalan Hang Tuah Jaya, 76100 Durian Tunggal, Melaka, Malaysia",2.3137898,102.3211166,GEOMETRIC_CENTER,ChIJm4aqbmzk0TERiGhT41dZk7g,"establishment,point_of_interest,university",76100,  UNIVERSITI TEKNIKAL MALAYSIA MELAKA (UTEM),1,OK
+164,"Sintok, 06010 Bukit Kayu Hitam, Kedah, Malaysia",6.4484176,100.5096811,GEOMETRIC_CENTER,ChIJd_cILBWuTDARPZNLCpuK13Y,"establishment,point_of_interest,university",06010,  UNIVERSITI UTARA MALAYSIA (UUM),1,OK
+165,"Tingkat 8, Menara PjH, Menara PJH, 2, Jalan Tun Abdul Razak, Presint 2, 62000 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.928808,101.6870928,ROOFTOP,ChIJYxaD4ji2zTER51wao2li-gw,"establishment,point_of_interest",62000,  BOARD OF GEOLOGISTS MALAYSIA,1,OK
+166,,,,,,,,  DEPARTMENT OF DIRECTOR GENERAL OF LANDS AND MINES,0,ZERO_RESULTS
+167,"Jalan Sultan Yahya Petra, Kampung Datuk Keramat, 54000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.170873,101.7182694,GEOMETRIC_CENTER,ChIJAfn_Ud03zDER_VvnmHFngEo,"establishment,point_of_interest",54000,  DEPARTMENT OF SURVEY AND MAPPING MALAYSIA,1,OK
+168,,,,,,,,  DEPARTMENT OF WILDLIFE AND NATIONAL PARKS,0,ZERO_RESULTS
+169,"1516 9th St, Sacramento, CA 95814, USA",38.5746837,-121.4978772,ROOFTOP,ChIJ4zGFiCnwfYgR0dFBqPerlMs,"establishment,local_government_office,point_of_interest",95814,  ENERGY COMMISSION,1,OK
+170,"Jalan Frim, Institut Penyelidikan Perhutanan Malaysia, 52109 Kuala Lumpur, Selangor, Malaysia",3.2354034,101.6328155,GEOMETRIC_CENTER,ChIJE2phdIxGzDERz_tQwrBLdWU,"establishment,point_of_interest",52109,  FOREST RESEARCH INSTITUTE MALAYSIA (FRIM),1,OK
+171,"Peninsular Malaysia, Malaysia",3.9743406,102.4380581,APPROXIMATE,ChIJr-DPKLJOyTERxovWc-B_7Ts,"establishment,natural_feature",,  FORESTRY DEPARTMENT PENINSULAR MALAYSIA,1,OK
+172,"Ardhi House 10th Floor, Wing ‘A, 1St Ngong Ave, Nairobi, Kenya",-1.2925835,36.8111194,GEOMETRIC_CENTER,ChIJWz4yosMQLxgRntC1MEP0gbI,"establishment,point_of_interest",,  LAND SURVEYORS BOARD,1,OK
+173,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MINERALS AND GEOSCIENCE DEPARTMENT MALAYSIA,1,OK
+174,"Wisma Sumber Asli, 25, Persiaran Perdana, Presint 4, 62574 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.9145499,101.6850477,ROOFTOP,ChIJaaT3lsq3zTERodCMktYb8m0,"establishment,point_of_interest",62574,  MINISTRY OF ENERGY AND NATURAL RESOURCES,1,OK
+175,,,,,,,,  NATIONAL INSTITUTE OF LAND AND SURVEY(INSTUN),0,ZERO_RESULTS
+176,"Level 9, Galeria PjH, Persiaran Perdana, Presint 4, 62100 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.9126761,101.6841762,GEOMETRIC_CENTER,ChIJtxO3f7e3zTERCVpY9Fh02ac,"establishment,furniture_store,home_goods_store,point_of_interest,store",62100,  SUSTAINABLE ENERGY DEVELOPMENT AUTHORITY (SEDA) MALAYSIA,1,OK
+177,"Level 2, Unit 4A, Menara PjH, Menara PJH, 2, Jalan Tun Abdul Razak, Presint 2, 62100 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.9288653,101.6869614,ROOFTOP,ChIJT2aJBDm2zTERQDjK5Au8Lu8,"establishment,point_of_interest",62100,  YAYASAN HIJAU MALAYSIA,1,OK
+178,,,,,,,,  BANK RAKYAT,0,ZERO_RESULTS
+179,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  CO-OPERATIVE INSTITUTE OF MALAYSIA,1,OK
+180,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIA CO-OPERATIVE SOCIETIES COMMISSION,1,OK
+181,"3730, Persiaran Apec, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia",2.9090721,101.6548113,ROOFTOP,ChIJt0aKMQS3zTERYjpZxW8JhCk,"establishment,point_of_interest",63000,  MALAYSIAN GLOBAL INNOVATION & CREATIVITY CENTRE (MAGIC),1,OK
+182,,,,,,,,  MINISTRY OF ENTREPRENEUR DEVELOPMENT AND COOPERATIVES,0,ZERO_RESULTS
+183,"Kampus INSKEN, CoPlace 1, 2270, Jalan Usahawan 2, Cyber 6, 63000 Cyberjaya, Selangor, Malaysia",2.9266688,101.6624332,GEOMETRIC_CENTER,ChIJz9e1ZSlPzDERzddgwPKsQDg,"establishment,point_of_interest",63000,  NATIONAL ENTREPRENEURSHIP INSTITUTE (INSKEN),1,OK
+184,"Bangsar, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1125074,101.6684139,GEOMETRIC_CENTER,ChIJbf4BbYdJzDEROCV9J4psLlM,"establishment,point_of_interest",59200,  PERBADANAN NASIONAL BERHAD (PNS),1,OK
+185,,,,,,,,  PROFESSIONAL TRAINING & EDUCATION FOR GROWING ENTREPRENEURS (PROT�G�),0,ZERO_RESULTS
+186,"Menara Sme Bank, Jln Sultan Ismail, Chow Kit, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1582896,101.7010919,ROOFTOP,ChIJdR8T0y5IzDERwU_DByJ56CM,"bank,establishment,finance,point_of_interest",50250,  SME BANK,1,OK
+187,"SME 1, Block B, Jalan Stesen Sentral 2, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1360317,101.6884755,ROOFTOP,ChIJlfRpVJVJzDERctX24nhM15I,"establishment,point_of_interest",50470,  SME CORPORATION MALAYSIA (SME CORP. MALAYSIA),1,OK
+188,,,,,,,,  TEKUN NASIONAL,0,ZERO_RESULTS
+189,,,,,,,,  UDA HOLDINGS BERHAD,0,ZERO_RESULTS
+190,,,,,,,,  DEPARTMENT OF BIOSAFETY,0,ZERO_RESULTS
+191,"Aras1-4, Podium 2,3, Wisma Sumber Asli, 25, Persiaran Perdana, Presint 3, 62574 Putrajaya, Malaysia",2.9142089,101.6856842,ROOFTOP,ChIJa5pUqMq3zTERwK98KyREvSM,"establishment,point_of_interest",62574,  DEPARTMENT OF ENVIRONMENT (DOE),1,OK
+192,,,,,,,,  DEPARTMENT OF IRRIGATION AND DRAINAGE,0,ZERO_RESULTS
+193,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN METEOROLOGICAL DEPARTMENT (MMD),1,OK
+194,"Lot 5377, Jalan Putra Permai, Rizab Melayu Sungai Kuyoh, 43300 Seri Kembangan, Selangor, Malaysia",3.0011599,101.6847743,ROOFTOP,ChIJjTbfoa-1zTERlQMo6hf9e98,"establishment,point_of_interest",43300,  NATIONAL HYDRAULIC RESEARCH INSTITUTE OF MALAYSIA (NAHRIM),1,OK
+195,,,,,,,,  FEDERAL TERRITORIES DIRECTOR OF LANDS AND MINES OFFICE,0,ZERO_RESULTS
+196,,,,,,,,  FEDERAL TERRITORY SPORTS COUNCIL (WIPERS),0,ZERO_RESULTS
+197,"Federal NSW 2480, Australia",-28.6525255,153.4561498,APPROXIMATE,ChIJrbX6A6iPkGsRAPZDkLQJBgQ,"locality,political",2480,  FEDERAL TOWN AND COUNTRY PLANNING DEPARTMENT,1,OK
+198,"Kampung Baru, Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1630505,101.706183,APPROXIMATE,ChIJrVcIUNg3zDER5inaVJ6mT0k,"political,sublocality,sublocality_level_1",,  KAMPONG BHARU DEVELOPMENT CORPORATION,1,OK
+199,,,,,,,,  KUALA LUMPUR CITY HALL (DBKL),0,ZERO_RESULTS
+200,"87000 Labuan, Labuan Federal Territory, Malaysia",5.2831456,115.230825,APPROXIMATE,ChIJjyIiA74ZIzIRfKq0JB4F1MM,"locality,political",87000,  LABUAN CORPORATION,1,OK
+201,,,,,,,,  MINISTRY OF FEDERAL TERRITORIES,0,ZERO_RESULTS
+202,,,,,,,,  NATIONAL LANDSCAPE DEPARTMENT,0,ZERO_RESULTS
+203,"Putrajaya, Malaysia",2.926361,101.696445,APPROXIMATE,ChIJIwuORCW2zTERbK-BqY9eFoU,"locality,political",,  PERBADANAN PUTRAJAYA,2,OK
+204,"Building, 30, Ministry of Finance and the Public Service, 4 National Heroes Cir, Kingston, Jamaica",17.9852595,-76.7866449,ROOFTOP,ChIJX1T2jXBA244RADMTocziqGw,"establishment,point_of_interest",,  ACCOUNTANT GENERAL'S DEPARTMENT,1,OK
+205,,,,,,,,  BANK SIMPANAN NASIONAL,0,ZERO_RESULTS
+206,,,,,,,,  BURSA MALAYSIA BERHAD,0,ZERO_RESULTS
+207,,,,,,,,  CENTRAL BANK OF MALAYSIA,0,ZERO_RESULTS
+208,,,,,,,,  CREDIT COUNSELLING AND DEBT MANAGEMENT AGENCY,0,ZERO_RESULTS
+209,,,,,,,,  EMPLOYEES PROVIDENT FUND,0,ZERO_RESULTS
+210,"Persiaran Rimba Permai, Cyber 8, 63000 Cyberjaya, Selangor, Malaysia",2.9108964,101.6502439,GEOMETRIC_CENTER,ChIJ679tygS3zTERznzdBQ8bH9k,"accounting,establishment,finance,local_government_office,point_of_interest",63000,  INLAND REVENUE BOARD OF MALAYSIA,1,OK
+211,"17th Floor, Main Office Tower Financial Park Complex, Jalan Merdeka, 87000, Wilayah Persekutuan Labuan, Sabah, Financial Park, 87000 Victoria, Labuan Federal Territory, Malaysia",5.2766122,115.2491706,GEOMETRIC_CENTER,ChIJT9QYHdwYIzIRJgp8Z1Vjm3Y,"establishment,finance,point_of_interest",87000,  LABUAN FINANCIAL SERVICES AUTHORITY (LABUAN FSA),1,OK
+212,,,,,,,,  MINISTRY OF FINANCE,0,ZERO_RESULTS
+213,,,,,,,,  NATIONAL HIGHER EDUCATION FUND CORPORATION (PTPTN),0,ZERO_RESULTS
+214,,,,,,,,  PUBLIC PRIVATE PARTNERSHIP UNIT,0,ZERO_RESULTS
+215,"KOMPLEKS KEMENTERIAN KEWANGAN NO.9 PERSIARAN PERDANA, PRESINT 2, PUSAT PENTADBIRAN KERAJAAN PERSEKUTUAN, 62592 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.9229813,101.6878917,GEOMETRIC_CENTER,ChIJAf2R-za2zTERiuDxQg0PAOk,"establishment,point_of_interest",62592,  PUBLIC SECTOR HOME FINANCING BOARD (LPPSA),1,OK
+216,,,,,,,,  RETIREMENT FUND (INCORPORATED),0,ZERO_RESULTS
+217,,,,,,,,  ROYAL MALAYSIAN CUSTOMS DEPARTMENT (RMCD),0,ZERO_RESULTS
+218,"Sarawak, Malaysia",1.5532783,110.3592127,APPROXIMATE,ChIJR25LAQ8q9jERABP-xW6lWvI,"administrative_area_level_1,political",,  SARAWAK FEDERAL TREASURY,1,OK
+219,"3, Persiaran Bukit Kiara, Bukit Kiara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1454818,101.6447528,ROOFTOP,ChIJq6qq2xtJzDER3mjyHwiHfVo,"establishment,local_government_office,point_of_interest",50490,  SECURITIES COMMISSION MALAYSIA (SC),1,OK
+220,"Terengganu, Malaysia",5.3116916,103.1324154,APPROXIMATE,ChIJV9P7V3XdtjER_qPy7a_lj2o,"administrative_area_level_1,political",,  TERENGGANU STATE ECONOMIC DEVELOPEMENT CORPORATION,1,OK
+221,"Sabah, Malaysia",5.978839799999999,116.0753199,APPROXIMATE,ChIJnYq8yHFRFTIRB7OWbEMenYg,"administrative_area_level_1,political",,  TREASURY OF MALAYSIA SABAH,1,OK
+222,,,,,,,,  TUN RAZAK FOUNDATION,0,ZERO_RESULTS
+223,"Presint 2, 62100 Putrajaya, Malaysia",2.9237115,101.6877902,GEOMETRIC_CENTER,ChIJFR2F5jm2zTERQfZIaHvYmLc,"establishment,point_of_interest",62100,  VALUATION AND PROPERTY SERVICES DEPARTMENT,1,OK
+224,,,,,,,,Agency by Ministry/State,0,ZERO_RESULTS
+225,,,,,,,,MINISTRY OF FOREIGN AFFAIRS,0,ZERO_RESULTS
+226,"15 Downie Ave, Harare, Zimbabwe",-17.79812,31.0431116,ROOFTOP,ChIJ_dyJPHKlMRkR3pTkpBwZiMU,"establishment,point_of_interest",,  INSTITUTE OF DIPLOMACY & FOREIGN RELATIONS (IDFR),1,OK
+227,,,,,,,,  MINISTRY OF FOREIGN AFFAIRS,0,ZERO_RESULTS
+228,,,,,,,,  NATIONAL AUTHORITY FOR CHEMICAL WEAPONS CONVENTION,0,ZERO_RESULTS
+229,"516, Persiaran Tuanku Ja’afar, Tasik Perdana, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1410079,101.6830514,ROOFTOP,ChIJ71sPFrhJzDER2hcb-AOwAGw,"establishment,point_of_interest",50480,  THE SOUTHEAST ASIA REGIONAL CENTRE FOR COUNTER-TERRORISM (SEARCCT),1,OK
+230,"Unit Keusahawanan, Politeknik Banting Selangor Persaiaran Ilmu, Jalan Sultan Abdul Samad, Kampung Sungai Raba, 42700 Banting, Selangor, Malaysia",2.8254988,101.4660555,GEOMETRIC_CENTER,ChIJP8UmgESkzTER94REU0z8xsc,"establishment,point_of_interest,university",42700,  POLITEKNIK BANTING,1,OK
+231,"Akademi Kepimpinan Pendidikan Tinggi (AKEPT, Lebuh, 71760 Bandar Baru Enstek, Negeri Sembilan, Malaysia",2.7332786,101.779505,GEOMETRIC_CENTER,ChIJ179IXOnBzTERTXC1dsah1N8,"establishment,point_of_interest",71760,  HIGHER EDUCATION LEADERSHIP ACADEMY (AKEPT),1,OK
+232,"Jalan Gombak, 53100, Selangor, Malaysia",3.2504473,101.7347286,GEOMETRIC_CENTER,ChIJr5UH98I4zDERo2MRv5eIgA8,"establishment,point_of_interest,university",53100,  INTERNATIONAL ISLAMIC UNIVERSITY OF MALAYSIA (IIUM),1,OK
+233,,,,,,,,  MALAYSIA QUALIFICATIONS AGENCY (MQA),0,ZERO_RESULTS
+234,"13600 Seberang Perai, Penang, Malaysia",5.3700335,100.4139476,APPROXIMATE,ChIJ18y0rGvGSjARS-ozmkRqjoI,"locality,political",13600,  SEBERANG PERAI POLYTECHNIC,1,OK
+235,,,,,,,,  SULTAN AZLAN SHAH POLYTECHNIC,0,ZERO_RESULTS
+236,"POLITEKNIK SULTAN HAJI AHMAD SHAH, Semambu, 25350 Kuantan, Pahang, Malaysia",3.8626197,103.3165089,GEOMETRIC_CENTER,ChIJ5xwI_HO7yDERjAtj526PJ9E,"establishment,point_of_interest,university",25350,  SULTAN HAJI AHMAD SHAH POLYTECHNIC (POLISAS),1,OK
+237,"Persiaran Tun Dr. Ismail Jalan Kluang Parit Raja, 86400 Batu Pahat, Johor, Malaysia",1.8565058,103.0821795,GEOMETRIC_CENTER,ChIJuQqdRape0DERofAW73uBX0k,"establishment,point_of_interest,university",86400,  UNIVERSITI TUN HUSSEIN ONN MALAYSIA (UTHM),1,OK
+238,"Sabah, Malaysia",5.978839799999999,116.0753199,APPROXIMATE,ChIJnYq8yHFRFTIRB7OWbEMenYg,"administrative_area_level_1,political",,  EASTERN SABAH SECURITY COMMAND (ESSCOM),1,OK
+239,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  IMMIGRATION DEPARTMENT OF MALAYSIA,1,OK
+240,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  INSTITUTE OF PUBLIC SECURITY OF MALAYSIA,1,OK
+241,,,,,,,,  LEMBAGA PENAPIS FILEM,0,ZERO_RESULTS
+242,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN BORDER CONTROL AGENCY,1,OK
+243,,,,,,,,  MALAYSIAN MARITIME ENFORCEMENT AGENCY,0,ZERO_RESULTS
+244,,,,,,,,  MINISTRY OF HOME AFFAIRS,0,ZERO_RESULTS
+245,,,,,,,,  NATIONAL ANTI DRUGS AGENCY,0,ZERO_RESULTS
+246,"Tkt. Bawah, Wisma Hock Teik, 1778, Jalan Ciku, 14000 Bukit Mertajam, Penang, Malaysia",5.366192,100.459892,ROOFTOP,ChIJYdCYCCLGSjARcMpQ7K2eZks,"establishment,point_of_interest",14000,  NATIONAL REGISTRATION DEPARTMENT,1,OK
+247,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  PRISONS DEPARTMENT OF MALAYSIA,1,OK
+248,,,,,,,,  REGISTRAR OF SOCIETIES,0,ZERO_RESULTS
+249,,,,,,,,  ROYAL MALAYSIAN POLICE (RMP),0,ZERO_RESULTS
+250,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  VOLUNTEERS DEPARTMENT OF MALAYSIA,1,OK
+251,,,,,,,,  LOCAL GOVERNMENT DEPARTMENT,0,ZERO_RESULTS
+252,,,,,,,,  MINISTRY OF HOUSING AND LOCAL GOVERNMENT,0,ZERO_RESULTS
+253,,,,,,,,  NATIONAL HOUSING DEPARTMENT,0,ZERO_RESULTS
+254,"5701 NW 35th Ave, Miami, FL 33142, USA",25.8263301,-80.2525558,ROOFTOP,ChIJ_SRGxcCw2YgRWygjMcVodAI,"establishment,point_of_interest",33142,  SOLID WASTE AND PUBLIC CLEANSING MANAGEMENT CORPORATION (SWCORP),1,OK
+255,,,,,,,,Agency by Ministry/State,0,ZERO_RESULTS
+256,,,,,,,,MINISTRY OF HUMAN RESOURCES,0,ZERO_RESULTS
+257,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  DEPARTMENT OF INDUSTRIAL RELATIONS MALAYSIA,1,OK
+258,,,,,,,,  DEPARTMENT OF LABOUR SABAH,0,ZERO_RESULTS
+259,"Sarawak, Malaysia",1.5532783,110.3592127,APPROXIMATE,ChIJR25LAQ8q9jERABP-xW6lWvI,"administrative_area_level_1,political",,  DEPARTMENT OF LABOUR SARAWAK,1,OK
+260,,,,,,,,  DEPARTMENT OF OCCUPATIONAL SAFETY AND HEALTH (DOSH),0,ZERO_RESULTS
+261,"Level 8, Block D4, Parcel D, Pusat Pentadbiran Kerajaan Persekutuan, Putrajaya, 62502, Putrajaya, WP Putrajaya, Presint 1, 62502 Putrajaya, Malaysia",2.9379621,101.7052889,GEOMETRIC_CENTER,ChIJBbGsWQG2zTER--HfwBWhoBc,"establishment,point_of_interest",62502,  DEPARTMENT OF TRADE UNION AFFAIRS,1,OK
+262,,,,,,,,  HUMAN RESOURCES DEVELOPMENT FUND (HRDF),0,ZERO_RESULTS
+263,"Level 14, Wisma Perkeso, No.155, Jln Tun Razak, Kampung Baru, 50400 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1671707,101.7129885,ROOFTOP,ChIJ2_bfFyhYyjERke3aMD2l3M0,"courthouse,establishment,point_of_interest",50400,  INDUSTRIAL COURT OF MALAYSIA,1,OK
+264,"Century Square, G07-G12,Right Wing, Block 2320, Jalan Usahawan, Cyber 6, 63000 Cyberjaya, Selangor, Malaysia",2.9250484,101.6605273,GEOMETRIC_CENTER,ChIJG_SnBli2zTERoEoRkJs3EXk,"establishment,point_of_interest",63000,  INSTITUTE OF LABOUR MARKET INFORMATION AND ANALYSIS (ILMIA),1,OK
+265,Denmark,56.26392,9.501785,APPROXIMATE,ChIJ-1-U7rYnS0YRzZLgw9BDh1I,"country,political",,  INSTITUT KESELAMATAN DAN KESIHATAAN PEKERJAAN NEGARA (NIOSH),1,OK
+266,"Peninsular Malaysia, Malaysia",3.9743406,102.4380581,APPROXIMATE,ChIJr-DPKLJOyTERxovWc-B_7Ts,"establishment,natural_feature",,  LABOUR DEPARTMENT (PENINSULAR MALAYSIA),1,OK
+267,"9th floor, sethsiripaya 2nd stage, Battaramulla, Sri Lanka",6.902591699999999,79.9154882,GEOMETRIC_CENTER,ChIJv-Hz4_5Z4joRd6st2AOMACM,"establishment,point_of_interest",,  MANPOWER DEPARTMENT,1,OK
+268,,,,,,,,  MINISTRY OF HUMAN RESOURCES,0,ZERO_RESULTS
+269,"50538, Menara Perkeso, 281, Jln Ampang, Taman U Thant, 55000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1601072,101.7348291,ROOFTOP,ChIJsYJNUbc3zDERC8HugzvJHig,"establishment,point_of_interest",55000,  SOCIAL SECURITY ORGANISATION (SOCSO),1,OK
+270,,,,,,,,  DEPARTMENT OF STANDARD MALAYSIA (JSM),0,ZERO_RESULTS
+271,"Level 1, Jln Sultan Ismail, Chow Kit, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1588148,101.7005745,ROOFTOP,ChIJ26_D09U3zDERaXzA6OXGCC4,"bank,establishment,finance,point_of_interest",50250,  EXPORT-IMPORT BANK OF MALAYSIA BERHAD (EXIM BANK),1,OK
+272,"Level 16, Menara SSM, No, 7, Jalan Stesen Sentral 5, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1333653,101.6839434,ROOFTOP,ChIJy1n6T5VJzDERqp5EXJ7OGEM,"establishment,local_government_office,point_of_interest",50470,  INVESTKL MALAYSIA,1,OK
+273,"Block 2280, Jalan Usahawan 2, Cyber 6, 63000 Cyberjaya, Selangor, Malaysia",2.9287368,101.6608149,ROOFTOP,ChIJtUB15Ve2zTERZ6Fnb3gzEZk,"establishment,point_of_interest",63000,  MALAYSIA AUTOMOTIVE ROBOTICS AND IOT INSTITUTE (MARII),1,OK
+274,"Menara Matrade, Jalan Sultan Haji Ahmad Shah, Kompleks Kerajaan, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1776225,101.6662616,ROOFTOP,ChIJw7C89WNIzDERsPdeTstlqoA,"establishment,point_of_interest",50480,  MALAYSIA EXTERNAL TRADE DEVELOPMENT CORPORATION (MATRADE),1,OK
+275,"82, Jalan Raja Chulan, 50200, Kuala Lumpur, WP Kuala Lumpur, Kuala Lumpur, 50200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1509805,101.7082083,GEOMETRIC_CENTER,ChIJDZZNoiw2zDERtte6SUDlMEQ,"establishment,finance,point_of_interest",50200,  MALAYSIAN INDUSTRIAL DEVELOPMENT FINANCE (MIDF),1,OK
+276,,,,,,,,  MALAYSIAN INVESTMENT DEVELOPMENT AUTHORITY (MIDA),0,ZERO_RESULTS
+277,"Jalan Sultan, Pjs 52, 46200 Petaling Jaya, Selangor, Malaysia",3.1021885,101.6438446,GEOMETRIC_CENTER,ChIJp4q7fcRLzDERgMWvXvzE8TQ,"establishment,point_of_interest",46200,  MALAYSIA PRODUCTIVITY CORPORATION (MPC),1,OK
+278,"No. 7, Jalan Sultan Haji Ahmad Shah, Kompleks Kerajaan, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1763148,101.668496,ROOFTOP,ChIJ__-_n2ZIzDERGW4RcOwwBG8,"establishment,point_of_interest",50480,  MALAYSIA STEEL INSTITUTE (MSI),1,OK
+279,,,,,,,,  MINISTRY OF INTERNATIONAL TRADE AND INDUSTRY (MITI),0,ZERO_RESULTS
+280,,,,,,,,  SIRIM BERHAD,0,ZERO_RESULTS
+281,,,,,,,,  INSTITUT KAJIAN & LATIHAN INTEGRASI NASIONAL (IKLIN),0,ZERO_RESULTS
+282,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN INDIAN TRANSFORMATION UNIT,1,OK
+283,,,,,,,,  MINISTRY OF NATIONAL UNITY,0,ZERO_RESULTS
+284,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  INSTITUTE OF MALAYSIAN PLANTATION AND COMMODITIES (IMPAC),1,OK
+285,"Tingkat 5, 6 & 7, Wisma SEDCO, Lorong Plaza Wawasan, Api-api Centre, 88999 Kota Kinabalu, Malaysia",5.973994900000001,116.067741,GEOMETRIC_CENTER,ChIJcYwXCUNpOzIR8L2vBOO5n5U,"establishment,point_of_interest",88999,  MALAYSIAN COCOA BOARD (MCB),1,OK
+286,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN PALM OIL BOARD (MPOB),1,OK
+287,"Unit 2-1, Level 2, Tower 2B, UOA Business Park, No 1, Jalan Pengaturcara U1/51a, Seksyen U1, 40150 Shah Alam, Selangor, Malaysia",3.0858369,101.5889347,ROOFTOP,ChIJmZEeQdc3zDERfyj-uQah4m4,"establishment,point_of_interest",40150,  MALAYSIAN PALM OIL CERTIFICATION COUNCIL (MPOCC),1,OK
+288,"Level 7, Menara Axis, No. 2, Jalan 51a/223, Seksyen 51a, 46100 Petaling Jaya, Selangor, Malaysia",3.1031466,101.6389773,ROOFTOP,ChIJua9QUxFMzDERniagD0I-Rx4,"establishment,point_of_interest",46100,  MALAYSIAN PALM OIL COUNCIL (MPOC),1,OK
+289,"1115, Jalan Utama, Biawak Industrial Estate, 93450 Kuching, Sarawak, Malaysia",1.5602291,110.3853862,ROOFTOP,ChIJY-ZAnDGm-zER6IRk2IDMY50,"establishment,food,point_of_interest",93450,  MALAYSIAN PEPPER BOARD (MPB),1,OK
+290,,,,,,,,  MALAYSIAN RUBBER BOARD,0,ZERO_RESULTS
+291,,,,,,,,  MALAYSIAN RUBBER EXPORT PROMOTION COUNCIL (MREPC),0,ZERO_RESULTS
+292,"Unit C-8-5, Block C, Megan Avenue 2, No, 12, Jalan Yap Kwan Seng, Kampung Baru, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1624637,101.712311,ROOFTOP,ChIJIVrgwuY3zDERv7IyOVW4hSw,"establishment,point_of_interest",50450,  MALAYSIAN TIMBER CERTIFICATION COUNCIL (MTCC),1,OK
+293,,,,,,,,  MALAYSIAN TIMBER COUNCIL (MTC),0,ZERO_RESULTS
+294,"Menara Pgrm, 8, Jalan Pudu Ulu, Taman Pertama, 55300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1223683,101.7292924,ROOFTOP,ChIJS_aOTW02zDERD8FQaA3bO74,"establishment,point_of_interest",55300,  MALAYSIAN TIMBER INDUSTRY BOARD (MTIB),1,OK
+295,,,,,,,,  MINISTRY OF PRIMARY INDUSTRIES,0,ZERO_RESULTS
+296,,,,,,,,  NATIONAL KENAF AND TOBACCO BOARD,0,ZERO_RESULTS
+297,,,,,,,,  FELCRA,0,ZERO_RESULTS
+298,"Lot 2A, Persiaran Institusi, Kawasan Institusi Bangi, 43000 Kajang, Selangor, Malaysia",2.964632,101.7361004,ROOFTOP,ChIJR0w6TDvKzTERLhyYzm4htd8,"establishment,point_of_interest",43000,  INSTITUT KEMAJUAN DESA (INFRA),1,OK
+299,"Aras 5 - 9, No. 47, Persiaran Perdana, Presint 4, 62100 Putrajaya, Malaysia",2.9045611,101.6814036,GEOMETRIC_CENTER,ChIJ8TbLUri3zTERlqeko58E5L4,"establishment,point_of_interest",62100,  JABATAN KEMAJUAN MASYARAKAT (KEMAS),1,OK
+300,,,,,,,,  KEMENTERIAN PEMBANGUNAN LUAR BANDAR,0,ZERO_RESULTS
+301,"Bangunan Kejora, Jalan Dato Haji Hassan Yunus, Bandar Penawar, 81900 Kota Tinggi, Malaysia",1.5557575,104.2301449,ROOFTOP,ChIJn3crVHpM2jERMZdX65eFfBg,"establishment,point_of_interest",81900,  LEMBAGA KEMAJUAN JOHOR TENGGARA (KEJORA),1,OK
+302,"Taman Teratai, 06500 Langgar, Kedah, Malaysia",6.148511399999999,100.4123916,GEOMETRIC_CENTER,ChIJZRG6ZL5ESzARC4FPMcI2OEA,"establishment,point_of_interest",06500,  LEMBAGA KEMAJUAN WILAYAH KEDAH (KEDA),1,OK
+303,,,,,,,,  MAJLIS AMANAH RAKYAT (MARA),0,ZERO_RESULTS
+304,,,,,,,,  RISDA,0,ZERO_RESULTS
+305,"Jalan Dengkil, Batu 24, 43000 Dengkil, Selangor, Malaysia",2.8960895,101.7541567,GEOMETRIC_CENTER,ChIJj2Hq9_TIzTERvu5vopapUnc,"establishment,point_of_interest",43000,  ATOMIC ENERGY LICENSING BOARD,1,OK
+306,,,,,,,,  DEPARTMENT OF CHEMISTRY (DOC),0,ZERO_RESULTS
+307,"Agensi Nuklear Malaysia, 43000 Kajang, Bangi, Malaysia",2.91078,101.77051,ROOFTOP,ChIJl_74ReHIzTERMDZsE03-qQU,"establishment,point_of_interest",43000,  MALAYSIAN NUCLEAR AGENCY,1,OK
+308,"13, Jalan Tun Ismail, Kuala Lumpur, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1634395,101.6890809,ROOFTOP,ChIJS022ijlIzDERv02kbcHLflc,"establishment,point_of_interest",50480,  MALAYSIAN SPACE AGENCY (MYSA),1,OK
+309,"Jalan Inovasi 3, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.0467937,101.696317,GEOMETRIC_CENTER,ChIJL69u6KRKzDERhn0MWjWpf2k,"establishment,point_of_interest",57000,  MIMOS BERHAD,1,OK
+310,,,,,,,,  MINISTRY OF SCIENCE,0,ZERO_RESULTS
+311,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  DEPARTMENT OF MUSEUMS MALAYSIA,1,OK
+312,,,,,,,,  DEPARTMENT OF NATIONAL HERITAGE,0,ZERO_RESULTS
+313,,,,,,,,  ISLAMIC TOURISM CENTRE,0,ZERO_RESULTS
+314,"Jln Tun Razak, Titiwangsa, 50694 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1743519,101.7038242,GEOMETRIC_CENTER,ChIJsRvr8B5IzDER7-59jlkq9ko,"establishment,point_of_interest",50694,  ISTANA BUDAYA,1,OK
+315,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIA CONVENTION & EXHIBITION BUREAU (MYCEB),1,OK
+316,"Kompleks Kraf Jalan Conlay, 63, Jalan Conlay, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1487161,101.7183219,ROOFTOP,ChIJZaUYkDI2zDERyRxXUEaZmcg,"establishment,point_of_interest",50450,  MALAYSIAN HANDICRAFT DEVELOPMENT CORPORATION,1,OK
+317,"Manila City Hall, Padre Burgos Ave, Ermita, Manila, 1000 Metro Manila, Philippines",14.5900507,120.9814765,ROOFTOP,ChIJXw6yqRjKlzMR01gXs_n_emI,"establishment,local_government_office,point_of_interest",1000,  MALAYSIA TOURISM PROMOTION BOARD (MTPB),1,OK
+318,,,,,,,,  MINISTRY OF TOURISM,0,ZERO_RESULTS
+319,"Shipka Street 1, 1000 Old City Center, Sofia, Bulgaria",42.694957,23.3346518,ROOFTOP,ChIJ4cpgw3aFqkARgBTycXrNsJM,"establishment,point_of_interest,university",1000,  NATIONAL ACADEMY OF ARTS CULTURE AND HERITAGE,1,OK
+320,,,,,,,,  NATIONAL ARCHIVES OF MALAYSIA,0,ZERO_RESULTS
+321,,,,,,,,  NATIONAL ARTS GALLERY,0,ZERO_RESULTS
+322,,,,,,,,  NATIONAL DEPARTMENT FOR CULTURE AND ARTS,0,ZERO_RESULTS
+323,"232, Jln Tun Razak, Titiwangsa, 50572 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1705762,101.7113573,ROOFTOP,ChIJayFysDw2zDEReMTx-UM3h2U,"establishment,library,point_of_interest",50572,  NATIONAL LIBRARY OF MALAYSIA,1,OK
+324,"Suite A-32-7 Menara UOA Bangsar No 5, Jalan Bangsar Utama 1, 59000, Kuala, Lumpur, WP Kuala Lumpur, Bangsar, 59000 Bangsar, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1278346,101.6774024,GEOMETRIC_CENTER,ChIJDzXNupZJzDERk7XwxoIVr_I,"establishment,food,grocery_or_supermarket,lodging,point_of_interest,store,supermarket",59000,  RANGKAIAN HOTEL SERI MALAYSIA,1,OK
+325,"Bintulu, Sarawak, Malaysia",3.171322,113.0419069,APPROXIMATE,ChIJ_dWdEhg0HDIRXIVjymU6CWw,"locality,political",,  BINTULU PORT AUTHORITY,1,OK
+326,"Aras 1-4, Blok Podium, 27, Persiaran Perdana, Presint 3, 62618 Putrajaya, Malaysia",2.9137381,101.6844205,ROOFTOP,ChIJ42tAYsq3zTERxmIJuaInuKM,"establishment,point_of_interest",62618,  CIVIL AVIATION AUTHORITY OF MALAYSIA (CAAM),1,OK
+327,"Jalan Mawar Merah 2, Pusat Perdagangan Pasir Gudang 2, 81700 Pasir Gudang, Johor, Malaysia",1.472564,103.901146,GEOMETRIC_CENTER,ChIJu-BDt08V2jERCDzGT6xC2r4,"establishment,point_of_interest",81700,  JOHOR PORT AUTHORITY (JPA),1,OK
+328,"26080 Gebeng, Pahang, Malaysia",3.9767056,103.4241775,GEOMETRIC_CENTER,ChIJdXhSS5OYyDERS8e3xNjC18c,"establishment,point_of_interest",26080,  KUANTAN PORT AUTHORITY,1,OK
+329,"Menara Tun Ismail Mohamed Ali, Aras G, M dan 20, No. 25, Jln Raja Laut, Chow Kit, 50350 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1589191,101.6948949,ROOFTOP,ChIJ35okixVMzDERuZmQnBQfNvw,"establishment,point_of_interest",50350,  LAND PUBLIC TRANSPORT AGENCY,1,OK
+330,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN INSTITUTE OF ROAD SAFETY RESEARCH (MIROS),1,OK
+331,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MARINE DEPARTMENT OF MALAYSIA,1,OK
+332,"Unit B, 06-08 12, Jalan Yap Kwan Seng, Kampung Baru, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1628878,101.7126118,ROOFTOP,ChIJHaWt_Nk3zDERx-Iz5ZjcDpw,"establishment,point_of_interest",50450,  MARITIME INSTITUTE OF MALAYSIA (MIMA),1,OK
+333,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MINISTRY OF TRANSPORT MALAYSIA,1,OK
+334,"Pengkalan Weld, George Town, 10300 George Town, Pulau Pinang, Malaysia",5.419079,100.3446608,GEOMETRIC_CENTER,ChIJNegE1MLDSjARV3F2LHNvVZ0,"establishment,point_of_interest",10300,  PENANG PORT COMMISSION,1,OK
+335,"202, Jalan Pelabuhan utara, Port Klang, 42005, Kawasan 14, 42000 Port Klang, Selangor, Malaysia",3.0087716,101.3930358,GEOMETRIC_CENTER,ChIJnbyFToBSzDEREVsGRqZMx2o,"establishment,point_of_interest",42000,  PORT KLANG AUTHORITY,1,OK
+336,,,,,,,,  PRASARANA MALAYSIA BERHAD,0,ZERO_RESULTS
+337,"Level 16, IOI City Tower 2, Lebuh IRC IOI Resort City, Ioi Resort, 62502 Sepang, Putrajaya, Malaysia",2.9693957,101.711814,GEOMETRIC_CENTER,ChIJmSa9uIvLzTERO0SMUAaOgPY,"establishment,point_of_interest",62502,  RAILWAY ASSETS CORPORATION,1,OK
+338,,,,,,,,  ROAD SAFETY DEPARTMENT,0,ZERO_RESULTS
+339,,,,,,,,  ROAD TRANSPORT DEPARTMENT,0,ZERO_RESULTS
+340,,,,,,,,  SABAH COMMERCIAL VEHICLE LICENSING BOARD,0,ZERO_RESULTS
+341,"Sarawak, Malaysia",1.5532783,110.3592127,APPROXIMATE,ChIJR25LAQ8q9jERABP-xW6lWvI,"administrative_area_level_1,political",,  SARAWAK COMMERCIAL VEHICLES LICENSING BOARD,1,OK
+342,,,,,,,,  DEPARTMENT OF SOSIAL WELFARE,0,ZERO_RESULTS
+343,,,,,,,,  DEPARTMENT OF WOMEN?S DEVELOPMENT,0,ZERO_RESULTS
+344,,,,,,,,  MINISTRY OF WOMEN,0,ZERO_RESULTS
+345,"Persiaran Perdana, Presint 4, 62100 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.9023525,101.6802605,GEOMETRIC_CENTER,ChIJY5-YrzpIzDERm6npBgqYITc,"establishment,point_of_interest",62100,  NAM INSTITUTE FOR THE EMPOWERMENT OF WOMEN MALAYSIA (NIEW),1,OK
+346,,,,,,,,  NATIONAL POPULATION AND FAMILY DEVELOPMENT BOARD,0,ZERO_RESULTS
+347,"Lot PT 13856 KM6, Lebuhraya Kuala Lumpur - Seremban, Sungai Besi, 57100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.0782147,101.7012761,GEOMETRIC_CENTER,ChIJrWYPmX5KzDERP9O4fGRQjvQ,"establishment,lodging,point_of_interest",57100,  SOCIAL INSTITUTE OF MALAYSIA,1,OK
+348,"Tingkat 17, Block F, Ibu Pejabat JKR, Jalan Sultan Salahuddin, 50582, Kuala Lumpur, Wilayah Persekutuan, Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1541375,101.6899344,GEOMETRIC_CENTER,ChIJfQYudjNIzDERcy4cgWzCIcc,"establishment,point_of_interest",50480,  BOARD OF ARCHITECTS MALAYSIA,1,OK
+349,"Tingkat 11& 17, Block F, Ibu Pejabat JKR, Jalan Sultan Salahuddin, Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1541405,101.6898839,GEOMETRIC_CENTER,ChIJg0CwgTNIzDER99FQyzLt7N8,"establishment,point_of_interest",50480,  BOARD OF ENGINEERS MALAYSIA,1,OK
+350,"Tingkat 17, Ibu Pejabat JKR, Jalan Sultan Salahuddin, 50582 Kuala Lumpur, Kuala Lumpur, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1540985,101.6899638,GEOMETRIC_CENTER,ChIJNYR0bTRIzDER9I5zoVpkT_I,"establishment,finance,point_of_interest",50480,  BOARD OF QUANTITY SURVEYORS MALAYSIA,1,OK
+351,"RFPX+G46, Port Louis, Mauritius",-20.1637221,57.4977563,GEOMETRIC_CENTER,ChIJD78BD01RfCERAQTbmfmVYdg,"establishment,point_of_interest",,  CONSTRUCTION INDUSTRY DEVELOPMENT BOARD (CIDB),1,OK
+352,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN HIGHWAY AUTHORITY,1,OK
+353,,,,,,,,  MINISTRY OF WORKS,0,ZERO_RESULTS
+354,,,,,,,,  PUBLIC WORKS DEPARTMENT (JKR),0,ZERO_RESULTS
+355,"FJCJ+9RC, Thimphu, Bhutan",27.4709438,89.63201169999999,GEOMETRIC_CENTER,ChIJ2Wx1tBuU4TkRMJyamb6rWwY,"establishment,point_of_interest",,  DEPARTMENT OF YOUTH AND SPORTS,1,OK
+356,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN INSTITUTE FOR RESEARCH IN YOUTH DEVELOPMENT,1,OK
+357,"126, Jalan Jalil Perkasa 19, Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.0536333,101.6934867,ROOFTOP,ChIJ_Vr32pdKzDERDqMBv8AwrF0,"establishment,point_of_interest,stadium",57000,  MALAYSIA STADIUM CORPORATION,1,OK
+358,,,,,,,,  MINISTRY OF YOUTH AND SPORTS,0,ZERO_RESULTS
+359,"4C55+J4R, My Lords Hill, Bridgetown, Barbados",13.1091246,-59.5922262,GEOMETRIC_CENTER,ChIJ-dsikMb2Q4wRQjumsUH7r_c,"establishment,point_of_interest",,  NATIONAL SPORTS COUNCIL,1,OK
+360,"19455 Deerfield Ave #306, Lansdowne, VA 20176, USA",39.0775181,-77.4770985,ROOFTOP,ChIJ4d0FWAs8tokRGodSTs2s2hU,"doctor,establishment,health,point_of_interest",20176,  NATIONAL SPORTS INSTITUTE,2,OK
+361,"Alor Gajah, Malacca, Malaysia",2.382211,102.2115611,APPROXIMATE,ChIJ0VFXIQb90TERL6bpqdV0Lcc,"locality,political",,  NATIONAL YOUTH VOCATIONAL INSTITUTE ALOR GAJAH,1,OK
+362,,,,,,,,  REGISTRAR OF YOUTH OFFICE,0,ZERO_RESULTS
+363,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  SPORTS COMMISSIONER OFFICE OF MALAYSIA,1,OK
+364,"Jalan Perpatih, Taman Pilah Jaya, 72000 Kuala Pilah, Negeri Sembilan, Malaysia",2.7383999,102.2470907,GEOMETRIC_CENTER,ChIJ1StBX4FyzjER9ARsBqWdfG0,"establishment,local_government_office,point_of_interest",72000,  KUALA PILAH DISTRICT COUNCIL,1,OK
+365,"Negeri Sembilan, Malaysia",2.7258058,101.9423782,APPROXIMATE,ChIJK9odZW_nzTERSQIXvC9ITis,"administrative_area_level_1,political",,  NEGERI SEMBILAN DEPARTMENT OF IRRIGATION AND DRAINAGE,1,OK
+366,"Negeri Sembilan, Malaysia",2.7258058,101.9423782,APPROXIMATE,ChIJK9odZW_nzTERSQIXvC9ITis,"administrative_area_level_1,political",,  NEGERI SEMBILAN ISLAMIC RELIGIOUS AFFAIRS DEPARTMENT,1,OK
+367,"Negeri Sembilan, Malaysia",2.7258058,101.9423782,APPROXIMATE,ChIJK9odZW_nzTERSQIXvC9ITis,"administrative_area_level_1,political",,  NEGERI SEMBILAN PUBLIC WORKS DEPARTMENT,1,OK
+368,"Negeri Sembilan, Malaysia",2.7258058,101.9423782,APPROXIMATE,ChIJK9odZW_nzTERSQIXvC9ITis,"administrative_area_level_1,political",,  NEGERI SEMBILAN SOCIAL WELFARE DEPARTMENT,1,OK
+369,"Negeri Sembilan, Malaysia",2.7258058,101.9423782,APPROXIMATE,ChIJK9odZW_nzTERSQIXvC9ITis,"administrative_area_level_1,political",,  NEGERI SEMBILAN TOWN AND RURAL PLANNING DEPARTMENT,1,OK
+370,"Negeri Sembilan, Malaysia",2.7258058,101.9423782,APPROXIMATE,ChIJK9odZW_nzTERSQIXvC9ITis,"administrative_area_level_1,political",,  OFFICE OF NEGERI SEMBILAN STATE SECRETARY,1,OK
+371,"8, Jalan Ketari, 28700 Bentong, Pahang, Malaysia",3.519963,101.913516,ROOFTOP,ChIJ7YX1OD8FzDERBljGZDVM_P8,"establishment,local_government_office,point_of_interest",28700,  BENTONG MUNICIPAL COUNCIL,1,OK
+372,"Pahang, Malaysia",3.8126318,103.3256204,APPROXIMATE,ChIJixCdiOIExTERRqhbfnbrOYs,"administrative_area_level_1,political",,  DEPARTMENT OF TOWN AND COUNTRY PLANNING STATE OF PAHANG,1,OK
+373,"Kuantan, Pahang, Malaysia",3.8168287,103.3317173,APPROXIMATE,ChIJBeAm6Pi5yDERYk8h-6oWTKQ,"locality,political",,  KUANTAN MUNICIPAL COUNCIL,1,OK
+374,"Pahang, Malaysia",3.8126318,103.3256204,APPROXIMATE,ChIJixCdiOIExTERRqhbfnbrOYs,"administrative_area_level_1,political",,  PAHANG DEPARTMENT OF SOCIAL WELFARE,1,OK
+375,"Pahang, Malaysia",3.8126318,103.3256204,APPROXIMATE,ChIJixCdiOIExTERRqhbfnbrOYs,"administrative_area_level_1,political",,  PAHANG ISLAMIC RELIGIOUS AFFAIRS DEPARTMENT,1,OK
+376,"Pahang, Malaysia",3.8126318,103.3256204,APPROXIMATE,ChIJixCdiOIExTERRqhbfnbrOYs,"administrative_area_level_1,political",,  PAHANG LAND AND MINES OFFICE,1,OK
+377,"Pahang, Malaysia",3.8126318,103.3256204,APPROXIMATE,ChIJixCdiOIExTERRqhbfnbrOYs,"administrative_area_level_1,political",,  PAHANG MUFTI DEPARTMENT,1,OK
+378,"Pahang, Malaysia",3.8126318,103.3256204,APPROXIMATE,ChIJixCdiOIExTERRqhbfnbrOYs,"administrative_area_level_1,political",,  PAHANG PUBLIC SERVICES COMMISSION,1,OK
+379,"Pahang, Malaysia",3.8126318,103.3256204,APPROXIMATE,ChIJixCdiOIExTERRqhbfnbrOYs,"administrative_area_level_1,political",,  PAHANG STATE FORESTRY DEPARTMENT,1,OK
+380,"Pahang, Malaysia",3.8126318,103.3256204,APPROXIMATE,ChIJixCdiOIExTERRqhbfnbrOYs,"administrative_area_level_1,political",,  PAHANG VETERINARY SERVICES DEPARTMENT,1,OK
+381,"Pejabat Kewangan dan Perbendaharaaan Negeri Pahang Tingkat 6, Wisma Sri Pahang, 25503, Kuantan, Pahang, Taman Sekilau Perdana, 25200 Kuantan, Pahang, Malaysia",3.824973,103.3238999,GEOMETRIC_CENTER,ChIJO_opdfK6yDER4M1sMJTg1Q0,"establishment,local_government_office,point_of_interest",25200,  PEJABAT KEWANGAN DAN PERBENDAHARAAN NEGERI PAHANG,1,OK
+382,"Lot 27 & Lot 29, Jalan Seri Kuantan 2, Sri Kuantan Square, 25050 Kuantan, Pahang, Malaysia",3.815822,103.334842,GEOMETRIC_CENTER,ChIJhwuzONm7yDERvEJeAnDAIWk,"establishment,local_government_office,point_of_interest",25050,  PEJABAT MENTERI BESAR DAN SETIAUSAHA KERAJAAN NEGERI PAHANG,1,OK
+383,,,,,,,,  PEKAN DISTRICT AND LAND OFFICE,0,ZERO_RESULTS
+384,,,,,,,,  TEMERLOH MUNICIPAL COUNCIL,0,ZERO_RESULTS
+385,"Jalan Betek, Taman Bukit Kecil, 14000 Bukit Mertajam, Pulau Pinang, Malaysia",5.353846,100.452652,GEOMETRIC_CENTER,ChIJ-78jdI_ISjARVWJTLKha6UY,"establishment,local_government_office,point_of_interest",14000,  CENTRAL SEBERANG PERAI DISTRICT AND LAND OFFICE,1,OK
+386,"Pengarah Tanah Dan Galian Tingkat 21 & 22 Komtar, 10000, Pulau Pinang, 10450 George Town, Penang, Malaysia",5.416092900000001,100.3293449,GEOMETRIC_CENTER,ChIJhRS7fpbDSjARl_UBnGiBop4,"establishment,point_of_interest",10450,  LANDS AND MINES OFFICE PENANG,1,OK
+387,"Komtar, 10450 George Town, Pulau Pinang, Malaysia",5.4145731,100.3297411,GEOMETRIC_CENTER,ChIJCVRvzpXDSjARxMjmQjbRCZY,"establishment,point_of_interest",10450,  PEJABAT SETIAUSAHA KERAJAAN NEGERI PULAU PINANG,1,OK
+388,"Bangunan Tun Dr Lim Chong Eu, No 1 Pesiaran Mahsuri, Bandar Bayan Baru, 11909 Bayan Lepas, Pulau Pinang, Malaysia",5.328736999999999,100.282589,ROOFTOP,ChIJ____D2vASjARMgL4jrrCQVQ,"establishment,point_of_interest,premise",11909,  PENANG DEVELOPMENT CORPORATION,1,OK
+389,"George Town, Penang, Malaysia",5.414130699999999,100.3287506,APPROXIMATE,ChIJ1XsrrZfDSjARNLmpeFnkmiM,"locality,political",,  PENANG ISLAMIC RELIGIOUS COUNCIL,1,OK
+390,"George Town, Penang, Malaysia",5.414130699999999,100.3287506,APPROXIMATE,ChIJ1XsrrZfDSjARNLmpeFnkmiM,"locality,political",,  PENANG JUDICIARY DEPARTMENT,1,OK
+391,"2118, Jalan Perpustakaan, Seberang Jaya, 13700 Perai, Pulau Pinang, Malaysia",5.391897,100.3990361,ROOFTOP,ChIJid9BPNTFSjARorsPJtM7gqA,"establishment,library,point_of_interest",13700,  PENANG PUBLIC LIBRARY CORPORATION,1,OK
+392,"Pengarah Kebajikan Masyarakat Jabatan Kebajikan Masyarakat Tingkat 30, 10564, Komtar, Pulau Pinang, 10450 George Town, Penang, Malaysia",5.4148502,100.3300056,GEOMETRIC_CENTER,ChIJ2cNcfJbDSjARDql1yLmMQkw,"establishment,point_of_interest",10450,  PENANG SOCIAL WELFARE DEPARTMENT,1,OK
+393,"George Town, Penang, Malaysia",5.414130699999999,100.3287506,APPROXIMATE,ChIJ1XsrrZfDSjARNLmpeFnkmiM,"locality,political",,  PENANG STATE DEPARTMENT OF AGRICULTURE,1,OK
+394,"Penang, Malaysia",5.4163935,100.3326786,APPROXIMATE,ChIJ3ZBTCQOUSjARP2OP86UFwyk,"administrative_area_level_1,political",,  PENANG STATE FINANCE DEPARTMENT,1,OK
+395,"George Town, Penang, Malaysia",5.414130699999999,100.3287506,APPROXIMATE,ChIJ1XsrrZfDSjARNLmpeFnkmiM,"locality,political",,  PENANG STATE MUFTI DEPARTMENT,1,OK
+396,"George Town, Penang, Malaysia",5.414130699999999,100.3287506,APPROXIMATE,ChIJ1XsrrZfDSjARNLmpeFnkmiM,"locality,political",,  PULAU PINANG ISLAMIC RELIGIOUS AFFAIRS DEPARTMENT,1,OK
+397,"George Town, Penang, Malaysia",5.414130699999999,100.3287506,APPROXIMATE,ChIJ1XsrrZfDSjARNLmpeFnkmiM,"locality,political",,  PULAU PINANG TOWN AND COUNTRY PLANNING DEPARTMENT,1,OK
+398,"Menara Bandaraya, Jln Perda Utama, Bandar Baru Perda, 14000 Bukit Mertajam, Pulau Pinang, Malaysia",5.3706542,100.4326128,GEOMETRIC_CENTER,ChIJZ0asGRnGSjARPwERmUF3fEo,"establishment,local_government_office,point_of_interest",14000,  SEBERANG PERAI CITY COUNCIL,1,OK
+399,"Jalan Haji Abdul Wahab, Kampung Bendera, 31000 Batu Gajah, Perak, Malaysia",4.4795786,101.0378802,GEOMETRIC_CENTER,ChIJ3e2KWp3oyjERSI4jaQwGQiw,"establishment,local_government_office,point_of_interest",31000,  BATU GAJAH DISTRICT COUNCIL,1,OK
+400,,,,,,,,  GERIK DISTRICT COUNCIL,0,ZERO_RESULTS
+401,"Persiaran Bandaraya, Pusat Perdagangan Greentown, 30450 Ipoh, Perak, Malaysia",4.5986484,101.0902996,GEOMETRIC_CENTER,ChIJueGn3GHsyjERjKcOn8nuuSA,"establishment,local_government_office,point_of_interest",30450,  IPOH CITY COUNCIL,1,OK
+402,"Pejabat Majlis Perbandaran Kuala Kangsar, Jalan Raja Chulan, 33000, Kuala Kangsar, Perak, Bandar Baru, 33000 Kuala Kangsar, Perak, Malaysia",4.7724395,100.9411887,GEOMETRIC_CENTER,ChIJt2QUXxu9yjERrIlqPCUX_00,"establishment,local_government_office,point_of_interest",33000,  KUALA KANGSAR MUNICIPAL COUNCIL,1,OK
+403,"Lenggong, Perak, Malaysia",5.10844,100.968034,APPROXIMATE,ChIJq-W_46BptTERWZLSftDSeVg,"locality,political",,  LENGGONG DISTRICT COUNCIL,1,OK
+404,"Manjung, Perak, Malaysia",4.4022491,100.7097867,APPROXIMATE,ChIJ0Rmxf6XRyjERQZFYn3vs-Fk,"administrative_area_level_3,political",,  MANJUNG DISTRICT & LAND OFFICE,1,OK
+405,"Manjung, Perak, Malaysia",4.4022491,100.7097867,APPROXIMATE,ChIJ0Rmxf6XRyjERQZFYn3vs-Fk,"administrative_area_level_3,political",,  MANJUNG MUNICIPAL COUNCIL,1,OK
+406,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  OFFICE OF THE DIRECTOR OF LANDS AND MINES PERAK,1,OK
+407,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PEJABAT MENTERI BESAR DAN SETIAUSAHA KERAJAAN NEGERI PERAK,1,OK
+408,"33100 Pengkalan Hulu, Perak, Malaysia",5.70644,100.9998371,APPROXIMATE,ChIJAbKxHLXgtDERKpOj2ap4CqI,"locality,political",33100,  PENGKALAN HULU DISTRICT COUNCIL,1,OK
+409,"Jalan Panglima Bukit Gantang Wahab, 30000 Ipoh, Perak, Malaysia",4.601243999999999,101.076249,GEOMETRIC_CENTER,ChIJYyulz4DsyjERtJG8KolE4BE,"establishment,point_of_interest",30000,  PERAK DRAINAGE AND IRRIGATION DEPARTMENT,1,OK
+410,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PERAK ISLAMIC RELIGIOUS AFFAIRS DEPARTMENT,1,OK
+411,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PERAK ISLAMIC RELIGIOUS COUNCIL & MALAY CUSTOMS,1,OK
+412,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PERAK SOCIAL WELFARE DEPARTMENT,1,OK
+413,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PERAK STATE AGRICULTURE DEVELOPMENT CORPORATION,1,OK
+414,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PERAK STATE OF PUBLIC WORKS DEPARTMENT,1,OK
+415,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PERAK STATE PUBLIC LIBRARY CORPORATION,1,OK
+416,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PERAK STATE PUBLIC SERVICE COMMISSION,1,OK
+417,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PERAK SYARIAH JUDICIARY DEPARTMENT,1,OK
+418,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PERAK VETERINARY SERVICES DEPARTMENT,1,OK
+419,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PERAK WATER BOARD,1,OK
+420,,,,,,,,  TAIPING MUNICIPAL COUNCIL,0,ZERO_RESULTS
+421,"Tanjong Malim, Perak, Malaysia",3.679539,101.52027,APPROXIMATE,ChIJJaWKnEeGyzERm3WUS6o5mJQ,"locality,political",,  TANJONG MALIM DISTRICT COUNCIL,1,OK
+422,,,,,,,,  DEPARTMENT OF IRRIGATION AND DRAINAGE PERLIS,0,ZERO_RESULTS
+423,,,,,,,,  DEPARTMENT OF LAND AND MINES PERLIS,0,ZERO_RESULTS
+424,"Perlis, Malaysia",6.444912899999999,100.2047691,APPROXIMATE,ChIJ-b3U8hZ5TDARb_v8dfzJXmc,"administrative_area_level_1,political",,  ISLAMIC RELIGIOUS AFFAIRS DEPARTMENT OF PERLIS,1,OK
+425,"192,, Exit Persiaran Jubli Emas, Pusat Bandar Kangar, 01000 Kangar, Perlis, Malaysia",6.4373461,100.1932361,GEOMETRIC_CENTER,ChIJWxnc56GZTDARmlya-DnTq04,"establishment,local_government_office,point_of_interest",01000,  KANGAR MUNICIPAL COUNCIL,1,OK
+426,"Pusat Bandar Kangar, 01564 Kangar, Perlis, Malaysia",6.414203,100.1886838,GEOMETRIC_CENTER,ChIJUdRHW5-ZTDAR1RcbmA6gnDg,"establishment,point_of_interest",01564,  PEJABAT MENTERI BESAR DAN SETIAUSAHA KERAJAAN NEGERI PERLIS,2,OK
+427,,,,,,,,  PERLIS PUBLIC WORKS DEPARTMENT,0,ZERO_RESULTS
+428,"Perlis, Malaysia",6.444912899999999,100.2047691,APPROXIMATE,ChIJ-b3U8hZ5TDARb_v8dfzJXmc,"administrative_area_level_1,political",,  PERLIS STATE DEPARTMENT AGRICULTURE,1,OK
+429,"Perlis, Malaysia",6.444912899999999,100.2047691,APPROXIMATE,ChIJ-b3U8hZ5TDARb_v8dfzJXmc,"administrative_area_level_1,political",,  PERLIS STATE DEPARTMENT OF VETERINARY SERVICES,1,OK
+430,"Perlis, Malaysia",6.444912899999999,100.2047691,APPROXIMATE,ChIJ-b3U8hZ5TDARb_v8dfzJXmc,"administrative_area_level_1,political",,  PERLIS STATE ECONOMIC DEVELOPMENT CORPORATION,1,OK
+431,"Perlis, Malaysia",6.444912899999999,100.2047691,APPROXIMATE,ChIJ-b3U8hZ5TDARb_v8dfzJXmc,"administrative_area_level_1,political",,  PERLIS STATE FORESTRY DEPARTMENT,1,OK
+432,"Perlis, Malaysia",6.444912899999999,100.2047691,APPROXIMATE,ChIJ-b3U8hZ5TDARb_v8dfzJXmc,"administrative_area_level_1,political",,  PERLIS STATE TREASURY,1,OK
+433,"Perlis, Malaysia",6.444912899999999,100.2047691,APPROXIMATE,ChIJ-b3U8hZ5TDARb_v8dfzJXmc,"administrative_area_level_1,political",,  PERLIS TOWN AND COUNTRY PLANNING DEPARTMENT,1,OK
+434,"Bangunan Sulaiman, Jalan Sultan Hishamuddin, Kampung Attap, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1381376,101.6924781,GEOMETRIC_CENTER,ChIJmQkIQC02zDERKbbTeZWGgCk,"courthouse,establishment,point_of_interest",50000,  ASIAN INTERNATIONAL ARBITRATION CENTRE (AIAC),1,OK
+435,"1 Upper Pickering St, Singapore 058288",1.286008,103.845719,ROOFTOP,ChIJEa_ES6EZ2jERNta0PqgCHZ4,"establishment,point_of_interest",058288,  ATTORNEY GENERAL'S CHAMBERS,1,OK
+436,"Ghaazee Building, Ameer Ahmed Magu, Malé, Maldives",4.1787234,73.51199059999999,ROOFTOP,ChIJM0tgpqp_PzsRIElPRlP9k5I,"establishment,point_of_interest",,  AUDITOR GENERAL OFFICE,1,OK
+437,,,,,,,,  BAHAGIAN KABINET,0,ZERO_RESULTS
+438,,,,,,,,  BAHAGIAN PERLINDUNGAN,0,ZERO_RESULTS
+439,,,,,,,,  CHIEF GOVERNMENT SECURITY OFFICE,0,ZERO_RESULTS
+440,,,,,,,,  DEPARTMENT OF ORANG ASLI DEVELOPMENT (JAKOA),0,ZERO_RESULTS
+441,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  DEPARTMENT OF STATISTICS MALAYSIA,1,OK
+442,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  DEPARTMENT OF SYARIAH JUDICIARY MALAYSIA,1,OK
+443,,,,,,,,  ECONOMIC PLANNING UNIT (EPU),0,ZERO_RESULTS
+444,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  EDUCATION SERVICE COMMISSION MALAYSIA,2,OK
+445,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  ELECTION COMMISSION OF MALAYSIA,1,OK
+446,,,,,,,,  FEDERAL TERRITORY ISLAMIC AFFAIRS DEPARTMENT (JAWI),0,ZERO_RESULTS
+447,"8 Lengkok Bahru, Singapore 159052",1.2865637,103.811373,ROOFTOP,ChIJd3lRYdIb2jER0x2Jen2WBas,"courthouse,establishment,point_of_interest",159052,  FEDERAL TERRITORY SYARIAH COURT,1,OK
+448,,,,,,,,  FGV HOLDINGS BERHAD (FGV),0,ZERO_RESULTS
+449,"Bangunan Perdana Putra, Persiaran Sultan Sallahuddin Abdul Aziz Shah, Presint 1, 62502 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.9383019,101.6923304,ROOFTOP,ChIJ__8__Ra2zTER2utqtLOASfs,"establishment,point_of_interest",62502,  IMPLEMENTATION COORDINATION UNIT,1,OK
+450,"Bangunan Hal Ehwal Undang-undang, Level 1, Presint 3, 62692 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.9176371,101.6822766,ROOFTOP,ChIJXXor7Eq2zTER6Ex5gjgk6sw,"establishment,point_of_interest",62692,  JABATAN BANTUAN GUAMAN (JBG),1,OK
+451,,,,,,,,  JOHOR CORPORATION (JCORP),0,ZERO_RESULTS
+452,,,,,,,,  JUDICIAL AND LEGAL TRAINING INSTITUTE,0,ZERO_RESULTS
+453,"Perbadanan Kemajuan Iktisad Negeri Kelantan, Tkt 8-11, Bangunan PKINK, Jalan Tg, Jalan Tengku Maharani, 15710 Kota Bharu, Kelantan, Malaysia",6.173665,102.146759,GEOMETRIC_CENTER,ChIJT1BGZVuptjEROT3kYclYn9w,"establishment,point_of_interest",15710,  KELANTAN STATE ECONOMIC DEVELOPMENT CORPORATION,2,OK
+454,,,,,,,,  KHAZANAH NASIONAL BERHAD,0,ZERO_RESULTS
+455,"Kompleks LADA, Peti Surat 60, Jalan Persiaran Putra, Kedah, Kuah, 07000 Langkawi, Kedah, Malaysia",6.311278,99.856151,GEOMETRIC_CENTER,ChIJW1HkiYCASzARCGD5fmRHUYQ,"establishment,point_of_interest",07000,  LANGKAWI DEVELOPMENT AUTHORITY (LADA),1,OK
+456,,,,,,,,  LEGAL AFFAIRS DIVISION,0,ZERO_RESULTS
+457,"Bangunan Perdana Putra, Level G, Persiaran Sultan Salahuddin Abdul Aziz Shah, Presint 1, 62502 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.9386544,101.6915744,ROOFTOP,ChIJi4VFtBa2zTER6giWSOHmaMw,"establishment,point_of_interest",62502,  MAJLIS KESELAMATAN NEGARA,1,OK
+458,,,,,,,,  MALAYSIA CIVIL DEFENCE FORCE,0,ZERO_RESULTS
+459,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIA DEPARTMENT OF ISLAMIC DEVELOPMENT (JAKIM),1,OK
+460,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN ADMINISTRATIVE MODERNISATION AND MANAGEMENT PLANNING UNIT (MAMPU),1,OK
+461,,,,,,,,  MALAYSIAN ANTI-CORRUPTION COMMISSION,0,ZERO_RESULTS
+462,"Aras 2 & 3, Bangunan Hal Ehwal Undang-Undang, Jalan Tun Abdul Razak, Presint 3, 62692, Putrajaya, Presint 3, 62100 Putrajaya, Malaysia",2.9175859,101.6820045,GEOMETRIC_CENTER,ChIJExXWZEq2zTER3Hb44K45_AQ,"establishment,point_of_interest",62100,  MALAYSIAN DEPARTMENT OF INSOLVENCY,1,OK
+463,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  MALAYSIAN INDUSTRY-GROUP FOR HIGH TECHNOLOGY (MIGHT),1,OK
+464,"GTower, Unit 20-11, Jln Tun Razak, Kuala Lumpur, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.1587894,101.720102,ROOFTOP,ChIJcTS5s883zDERsHCejkPG_Tk,"establishment,point_of_interest",50400,  MALAYSIA PETROLEUM RESOURCES CORPORATION,1,OK
+465,,,,,,,,  MUFTI OF FEDERAL TERRITORY,0,ZERO_RESULTS
+466,"Level 9, Menara 1 Dutamas, No. 1, Jln Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1707057,101.6674991,ROOFTOP,ChIJq633O8FJzDERfCnHWWr5TrM,"establishment,point_of_interest",50480,  MYHSR CORPORATION SDN. BHD,1,OK
+467,,,,,,,,  NATIONAL DISASTER MANAGEMENT AGENCY,0,ZERO_RESULTS
+468,,,,,,,,  NATIONAL INSTITUTE FOR PUBLIC ADMINISTRATION (INTAN),0,ZERO_RESULTS
+469,"P.za de la Constitución S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06066 Ciudad de México, CDMX, Mexico",19.4324451,-99.131193,ROOFTOP,ChIJ8ZWV2cz-0YUR_dZtPvUaOPc,"establishment,point_of_interest,tourist_attraction",06066,  NATIONAL PALACE,1,OK
+470,"Istana Kehakiman, Persiaran Perdana, Presint 3, 62506 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.9171154,101.6858261,GEOMETRIC_CENTER,ChIJi7QrFjW2zTERPBYWj_RHWPo,"courthouse,establishment,point_of_interest",62506,  OFFICE OF THE CHIEF REGISTRAR FEDERAL COURT OF MALAYSIA,1,OK
+471,,,,,,,,  OFFICE OF THE KEEPER OF THE RULERS' SEAL,0,ZERO_RESULTS
+472,Malaysia,4.210484,101.975766,APPROXIMATE,ChIJrzBnX5fTNDAR2BwhKJOWRQc,"country,political",,  PARLIAMENT OF MALAYSIA,1,OK
+473,"Block D, Dataran PHB, Saujana Resort, Section U2, Saujana, 40150 Shah Alam, Selangor, Malaysia",3.1082521,101.5825666,GEOMETRIC_CENTER,ChIJu3vlCSZMzDERwcx5xwmy4jU,"establishment,point_of_interest",40150,  PELABURAN HARTANAH BERHAD (PHB),1,OK
+474,"Perak, Malaysia",4.5921126,101.090109,APPROXIMATE,ChIJHUBEL_y1NDAR0lr-XPDW2aI,"administrative_area_level_1,political",,  PERAK STATE DEVELOPMENT CORPORATION (PSDC),1,OK
+475,"Selangor, Malaysia",3.0738379,101.5183469,APPROXIMATE,ChIJXwTrzVJCzDERuftdIeG-4SY,"administrative_area_level_1,political",,  PERBADANAN KEMAJUAN NEGERI SELANGOR,1,OK
+476,"No. 28, Jln Meru Bestari B5, Medan Meru Bestari, 30020 Ipoh, Perak, Malaysia",4.6694726,101.0752779,ROOFTOP,ChIJ-b0d6E2TyjERTkAGDD1QuNA,"establishment,finance,point_of_interest",30020,  PERBADANAN USAHAWAN NASIONAL BERHAD (PUNB),2,OK
+477,"Kampus Bukit, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80364, Indonesia",-8.7991152,115.161686,GEOMETRIC_CENTER,ChIJU9fpPsFE0i0RgQ-1SSQEBWw,"establishment,point_of_interest,university",80364,  PERMODALAN NASIONAL BERHAD (PNB),1,OK
+478,,,,,,,,  PETROLIAM NASIONAL BERHAD (PETRONAS),0,ZERO_RESULTS
+479,,,,,,,,  PILGRIMAGE FUND BOARD,0,ZERO_RESULTS
+480,,,,,,,,  PRIME MINISTER DEPARTMENT,0,ZERO_RESULTS
+481,,,,,,,,  PROPERTY MANAGEMENT DIVISION,0,ZERO_RESULTS
+482,"301 Jervois Rd, Singapore 249077",1.2941817,103.8248906,ROOFTOP,ChIJBVKWTYcZ2jER2RUHTlODSeE,"embassy,establishment,point_of_interest",249077,  PUBLIC SERVICE COMMISSION OF MALAYSIA,1,OK
+483,"112 State St, Montpelier, VT 05602, USA",44.260877,-72.5799679,ROOFTOP,ChIJ8yDmr4yntUwRanRjRSA2CrI,"establishment,local_government_office,point_of_interest",05602,  PUBLIC SERVICE DEPARTMENT,1,OK
+484,"Jabatan Perdana Menteri, Aras 3, Blok Barat, Bangunan Perdana Putra, Pusat Pentadbiran Kerajaan Persekutuan, 62520 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.9387748,101.6917663,ROOFTOP,ChIJByY5YGK3zTERoj-vE8-sQxw,"establishment,point_of_interest",62520,  PUSAT GOVERNANS,1,OK
+485,,,,,,,,  SECRETARIAT AND SECRETARIAT DIVISION INTERNATIONAL CONFERENCE,0,ZERO_RESULTS
+486,"Presint 2, 62000 Putrajaya, Malaysia",2.9213109,101.6858062,GEOMETRIC_CENTER,ChIJa3D6DDa2zTERorzzxH62pEY,"establishment,point_of_interest",62000,  SURUHANJAYA INTEGRITI AGENSI PENGUATKUASAAN(SIAP),1,OK
+487,"655 New York Ave NW, Washington, DC 20001, USA",38.903717,-77.021141,ROOFTOP,ChIJU4XMTbS3t4kRQ3Tx2pOypZ4,"establishment,health,point_of_interest",20001,  THE ADVISORY BOARD,1,OK
+488,"11th, Menara TH Perdana, Jln Sultan Ismail, Chow Kit, 50250 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.1598339,101.6962262,GEOMETRIC_CENTER,ChIJ700y2y9IzDER0nWtDAKyaAY,"establishment,point_of_interest",50250,  THE HUMAN RIGHTS COMMISSION OF MALAYSIA (SUHAKAM),1,OK
+489,,,,,,,,  THE JUDICIAL AND LEGAL SERVICE COMMISSION (JLSC),0,ZERO_RESULTS
+490,"225, 221, Jalan Macalister, George Town, 10450 George Town, Pulau Pinang, Malaysia",5.421395899999999,100.30418,ROOFTOP,ChIJMd2ApVLCSjARVaf3UYCosGs,"establishment,point_of_interest",10450,  THE PENANG HINDU ENDOWMENTS BOARD (PHEB),1,OK
+491,"5, Surian Tower, No 1, Jalan PJU 7/3, Mutiara Damansara, 47810 Petaling Jaya, Selangor, Malaysia",3.1557781,101.6096343,ROOFTOP,ChIJ5b7jH-Gn-zERjDJyODJtpSc,"establishment,point_of_interest",47810,  UNIT PENERAJU AGENDA BUMIPUTERA (TERAJU),1,OK
+492,,,,,,,,  URUSETIA JAWATANKUASA KERJA TANAH WILAYAH PERSEKUTUAN,0,ZERO_RESULTS
+493,,,,,,,,  WILAYAH PERSEKUTUAN ISLAMIC RELIGIOUS COUNCIL (MAP),0,ZERO_RESULTS
+494,,,,,,,,  YAYASAN AMANAH HARTANAH BUMIPUTERA (YAHB),0,ZERO_RESULTS
+495,"88400 Kota Kinabalu, Sabah, Malaysia",5.970212999999999,116.083634,GEOMETRIC_CENTER,ChIJmW5w7qFpOzIRpHIsQS2GGSA,"establishment,point_of_interest",88400,  SABAH LAND DEVELOPMENT BOARD,1,OK
+496,"Sarawak, Malaysia",1.5532783,110.3592127,APPROXIMATE,ChIJR25LAQ8q9jERABP-xW6lWvI,"administrative_area_level_1,political",,  DEPARTMENT ISLAMIC AFFAIRS OF SARAWAK,1,OK
+497,"Pengarah Jabatan Pertanian Negeri Tingkat 12 - 17, Menara Pelita Petra Jaya, 93050, Kuching, Sarawak, Petra Jaya, 93050 Kuching, Sarawak, Malaysia",1.5772459,110.3502627,GEOMETRIC_CENTER,ChIJG_fFSXen-zER74R19yS7O78,"establishment,point_of_interest",93050,  DEPARTMENT OF AGRICULTURE SARAWAK,1,OK
+498,"Pengarah Jabatan Pengairan dan Saliran Sarawak Tingkat 10, Wisma Saberkas Jalan Tun Abg Haji Openg, 93660, Kuching, Sarawak, 93150 Kuching, Sarawak, Malaysia",1.5372714,110.3399617,GEOMETRIC_CENTER,ChIJG_fFSXen-zERID_5_BF1Q7c,"establishment,point_of_interest",93150,  DEPARTMENT OF IRRIGATION AND DRAINAGE SARAWAK,1,OK
+499,"Sarawak, Malaysia",1.5532783,110.3592127,APPROXIMATE,ChIJR25LAQ8q9jERABP-xW6lWvI,"administrative_area_level_1,political",,  JABATAN KETUA MENTERI SARAWAK,1,OK

@@ -1,0 +1,83 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>WebGIS</title>
+
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="{% static '/bootstrap/css/bootstrap.min.css' %}">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+
+<!--  <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">-->
+  <nav class="navbar navbar-dark bg-info static-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">GRABev</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="False" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="/">Welcome</a>
+            <a class="nav-link" href="/explore/">Explore more</a>
+            <a class="nav-link" href="/route/">EV route</a>
+            <a class="nav-link" href="/aboutme/">About Me</a>
+<!--            <a class="nav-link" href="http://127.0.0.1:8000">Welcome</a>-->
+<!--            <a class="nav-link" href="http://127.0.0.1:8000/explore/">Explore more</a>-->
+<!--            <a class="nav-link" href="http://127.0.0.1:8000/aboutme/">About Me</a>-->
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h1 class="mt-5">GIS App by SZ</h1>
+        <br>
+        <br>
+        <p class="lead">Hi, my name is Suizer and I am passionate in GIS!</p>
+
+
+<!--          {{ my_map|safe }}-->
+
+        <ul class="list-unstyled">
+        <br>
+        <br>
+          <li>This web application was invented to enhance my web development knowledges. </li>
+          <li>Django web framework was implemented in Python virtual environment.</li>
+          <li>This interactive web map is created for Grab Geo*Star competition uses.</li>
+        </ul>
+
+        <ul class="list-unstyled">
+        <br>
+        <br>
+          <li><strong>Created by Sui Zer</strong></li>
+          <li><strong>2022</strong></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="{% static '/jquery/jquery.slim.min.js' %}"></script>
+  <script src="{% static '/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+
+</body>
+
+</html>

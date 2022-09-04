@@ -1,0 +1,245 @@
+{
+    "bbox": [
+        80.215954,
+        6.019963,
+        80.244263,
+        6.03757
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "engine": {
+            "build_date": "2022-02-18T19:37:41Z",
+            "graph_date": "2022-03-20T11:18:01Z",
+            "version": "6.7.0"
+        },
+        "query": {
+            "coordinates": [
+                [
+                    80.21787585263182,
+                    6.025423265401452
+                ],
+                [
+                    80.23929481745174,
+                    6.019639381180123
+                ]
+            ],
+            "format": "json",
+            "profile": "driving-car"
+        },
+        "service": "routing",
+        "timestamp": 1650710448984
+    },
+    "routes": [
+        {
+            "bbox": [
+                80.215954,
+                6.019963,
+                80.244263,
+                6.03757
+            ],
+            "extras": {
+                "roadaccessrestrictions": {
+                    "summary": [
+                        {
+                            "amount": 98.9,
+                            "distance": 5602.9,
+                            "value": 0.0
+                        },
+                        {
+                            "amount": 1.1,
+                            "distance": 62.4,
+                            "value": 32.0
+                        }
+                    ],
+                    "values": [
+                        [
+                            0,
+                            18,
+                            0
+                        ],
+                        [
+                            18,
+                            21,
+                            32
+                        ],
+                        [
+                            21,
+                            182,
+                            0
+                        ]
+                    ]
+                }
+            },
+            "geometry": "_zwc@mqrhNLALANhA@HNpAcEv@m@J}A\\wAXqA\\aAPkGZe@BKDA@C?A?KEaAHI?c@@QDMDUHABC?C@CAC?GGAC?C@EGgAOc@ISO[c@SCACCCC_@UOC}@MaAOSAUBa@HCBCBK?ICCCACw@cAGGMKY[w@u@QS}@eAsAiBo@{@]c@MQ_@g@w@kAe@u@gA_CyAmD{@gCk@qBe@kBg@{DGs@E{EE_BESIYSUIGEC]WGSCM@UHo@`@yB@IXiAb@yAl@gBHQ`AkBxAmCt@uAPc@Zo@Zs@@EBGNm@N{@Fq@BS@QHk@Ji@^cA^aAlAwC^aAn@eCF]P}An@eGHa@FSJYVi@n@cAx@}@dB{A|@aAdA_AlA}@l@c@PWROl@e@\\WTQt@s@r@q@JIl@s@Zc@nA_Bb@e@TSDAXO^Y~@m@`Ag@NGZQTMpAy@FHFF?Xw@nBCN@JJDz@RXDNAJEFIBORW\\OXJx@vAL`AFNTTbAf@l@\\~A`@jC^fAHnAV`BZl@FbAJrAD`CJ~BVl@?",
+            "segments": [
+                {
+                    "distance": 5665.3,
+                    "duration": 764.7,
+                    "steps": [
+                        {
+                            "distance": 16.3,
+                            "duration": 3.9,
+                            "instruction": "Head south on \u0db4\u0dbd\u0dca\u0dbd\u0dd2\u0dba \u0dc0\u0dd3\u0daf\u0dd2\u0dba",
+                            "name": "\u0db4\u0dbd\u0dca\u0dbd\u0dd2\u0dba \u0dc0\u0dd3\u0daf\u0dd2\u0dba",
+                            "type": 11,
+                            "way_points": [
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "distance": 94.3,
+                            "duration": 22.6,
+                            "instruction": "Turn right onto New Lane II",
+                            "name": "New Lane II",
+                            "type": 1,
+                            "way_points": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "distance": 510.9,
+                            "duration": 122.6,
+                            "instruction": "Turn right onto \u0db4\u0dca\u200d\u0dbb\u0daf\u0dd3\u0db4\u0dcf\u0d9c\u0dcf\u0dbb \u0dc0\u0dd3\u0daf\u0dd2\u0dba",
+                            "name": "\u0db4\u0dca\u200d\u0dbb\u0daf\u0dd3\u0db4\u0dcf\u0d9c\u0dcf\u0dbb \u0dc0\u0dd3\u0daf\u0dd2\u0dba",
+                            "type": 1,
+                            "way_points": [
+                                5,
+                                14
+                            ]
+                        },
+                        {
+                            "distance": 12.8,
+                            "duration": 3.1,
+                            "exit_number": 2,
+                            "instruction": "Enter the roundabout and take the 2nd exit",
+                            "name": "-",
+                            "type": 7,
+                            "way_points": [
+                                14,
+                                18
+                            ]
+                        },
+                        {
+                            "distance": 94.6,
+                            "duration": 20.8,
+                            "instruction": "Turn slight left",
+                            "name": "-",
+                            "type": 4,
+                            "way_points": [
+                                18,
+                                24
+                            ]
+                        },
+                        {
+                            "distance": 139.6,
+                            "duration": 24.6,
+                            "exit_number": 2,
+                            "instruction": "Enter the roundabout and take the 2nd exit onto Custom Road",
+                            "name": "Custom Road",
+                            "type": 7,
+                            "way_points": [
+                                24,
+                                38
+                            ]
+                        },
+                        {
+                            "distance": 156.0,
+                            "duration": 25.7,
+                            "exit_number": 1,
+                            "instruction": "Enter the roundabout and take the 1st exit onto Custom Road",
+                            "name": "Custom Road",
+                            "type": 7,
+                            "way_points": [
+                                38,
+                                48
+                            ]
+                        },
+                        {
+                            "distance": 90.1,
+                            "duration": 16.8,
+                            "exit_number": 2,
+                            "instruction": "Enter the roundabout and take the 2nd exit onto Colombo-Matara Road, AA002",
+                            "name": "Colombo-Matara Road, AA002",
+                            "type": 7,
+                            "way_points": [
+                                48,
+                                57
+                            ]
+                        },
+                        {
+                            "distance": 1168.2,
+                            "duration": 93.5,
+                            "instruction": "Continue straight onto Colombo-Matara Road, AA002",
+                            "name": "Colombo-Matara Road, AA002",
+                            "type": 6,
+                            "way_points": [
+                                57,
+                                81
+                            ]
+                        },
+                        {
+                            "distance": 2351.1,
+                            "duration": 183.7,
+                            "instruction": "Keep right onto Colombo-Matara Road, AA002",
+                            "name": "Colombo-Matara Road, AA002",
+                            "type": 13,
+                            "way_points": [
+                                81,
+                                149
+                            ]
+                        },
+                        {
+                            "distance": 106.6,
+                            "duration": 25.6,
+                            "instruction": "Turn right onto Rumassala Road",
+                            "name": "Rumassala Road",
+                            "type": 1,
+                            "way_points": [
+                                149,
+                                154
+                            ]
+                        },
+                        {
+                            "distance": 924.7,
+                            "duration": 221.9,
+                            "instruction": "Keep left onto Rumassala Road",
+                            "name": "Rumassala Road",
+                            "type": 12,
+                            "way_points": [
+                                154,
+                                182
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "instruction": "Arrive at Rumassala Road, on the right",
+                            "name": "-",
+                            "type": 10,
+                            "way_points": [
+                                182,
+                                182
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "summary": {
+                "distance": 5665.3,
+                "duration": 764.7
+            },
+            "warnings": [
+                {
+                    "code": 1,
+                    "message": "There may be restrictions on some roads"
+                }
+            ],
+            "way_points": [
+                0,
+                182
+            ]
+        }
+    ]
+}
