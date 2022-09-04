@@ -155,7 +155,7 @@ def home(request):
     #     latitude=data1["latitude"]
 
     # place all markers
-
+    # arrange data
     df = pd.DataFrame(records, columns=['locations', 'lat', 'lng'])
     df = df.iloc[1:, :]
 
@@ -197,6 +197,7 @@ def home(request):
     #     df2 = df2.append(pd.read_csv(f), ignore_index=True)
     #     df2 = df2.dropna()
 
+    # map layout
     map_center = [df["lat"].mean(), df["lng"].mean()]
     m = folium.Map(location=map_center, zoom_start=5, )
     # m = folium.Map(location=[latitude,longitude],zoom_start=5,)
@@ -224,7 +225,7 @@ def home(request):
     files = os.path.join(os.path.dirname(__file__), '')
 
 
-
+    # layers
     markerClusterMcd = MarkerCluster(name="Mcd", show=False).add_to(m)
     markerClusterShopping = MarkerCluster(name="Shopping malls", show=False).add_to(m)
     markerClusterGo = MarkerCluster(name="Government agencies", show=False).add_to(m)
@@ -239,6 +240,9 @@ def home(request):
     m.add_child(fg3)
     m.add_child(fg4)
     # m.add_child(fg5)
+
+
+    # visualise data
 
     # for i in df:
     #     # iframe = folium.IFrame(f'<input type="text" value="{i[1]}, {i[2]}" id="myInput"><br><button onclick="myFunction()">Copy location</button>'
