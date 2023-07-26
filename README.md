@@ -1,6 +1,6 @@
 # DjangoGIS
 
-The website is on:
+The website is hosted with free on:
 http://tey.pythonanywhere.com/
 
 ## Background of project
@@ -25,3 +25,9 @@ What I implemented: A web map showing POIs and colour ramp heatmap deployed on f
 1. Simulated a likelihood live web GIS that can be helpful for research institutes or accessible by publics.
 2. In general, EVCS still built near economic areas (more benefits). Relationship is there and not random occurrences.
 3. Authorities can perform better urban planning by installing EV stations in prioritized areas (such as high-density area).
+
+## Stack
+- Django
+- Sqlite3
+- JS, CSS, HTML
+- openrouteservice
