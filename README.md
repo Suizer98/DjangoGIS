@@ -8,7 +8,8 @@ http://tey.pythonanywhere.com/
 - Sqlite3
 - JS, CSS, HTML
 - openrouteservice
-![Tech stacks](https://skillicons.dev/icons?i=django,python,js,css,html,sqlite,gcp)
+
+![Tech stacks](https://skillicons.dev/icons?i=django,python,js,css,html,sqlite,bash,gcp)
 
 ## Background of project
 This project is created for: Grab GeoStars Program 2022 Geospatial Research Project.
