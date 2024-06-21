@@ -3,6 +3,10 @@
 The website is hosted with free on:
 http://tey.pythonanywhere.com/
 
+## `Something went wrong :-(` error
+This website is hosted on pythonanywhere free tier server. When inactive, the website shutdown automatically. 
+The live deployment will only be triggered after you access the website. If you see this message, refresh the page again.
+
 ## Tech stacks:
 - Django
 - Sqlite3
