@@ -8,11 +8,6 @@ This website is hosted on pythonanywhere free tier server. When inactive, the we
 The live deployment will only be triggered after you access the website. If you see this message, refresh the page again.
 
 ## Tech stacks:
-- Django
-- Sqlite3
-- JS, CSS, HTML
-- openrouteservice
-
 ![Tech stacks](https://skillicons.dev/icons?i=django,python,js,css,html,sqlite,bash,gcp)
 
 ## Background of project
