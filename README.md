@@ -12,8 +12,8 @@ The live deployment will only be triggered after you access the website. If you 
 
 ## Background of project
 This project is created for: Grab GeoStars Program 2022 Geospatial Research Project.
-
 It was held in Universiti Teknologi Malaysia (UTM), organised by Grab, the biggest multinational technology company headquartered in One-north, Singapore.
+Download the journal here: [Journal](https://github.com/Suizer98/suizer/raw/main/Journal%20Tey.pdf)
 
 ## Topic
 Visualising relationship between EVCSs and economic area using web GIS
